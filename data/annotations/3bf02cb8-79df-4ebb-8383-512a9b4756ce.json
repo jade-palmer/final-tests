@@ -1,5 +1,325 @@
 {
-  "annotations": [],
+  "annotations": [
+    {
+      "start_time": 7,
+      "end_time": 8,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Video Description: Colour video, different degrees of closeup of the stage at Bistro 4 (Quatre) (4040 St. Laurent, Montreal, QC, H2W 1Y8, Canada). A single mic stand. The stage, slightly below street level, is set against a full-wall window looking out onto the St. Laurent Blvd. traffic---with both pedestrians and vehicles regularly passing by. The windows from across the street are also visible, including an outdoor \"JETHRO\" sign. People frequently pass in front of the camera. On the cafe windows, some decals are partially visible, with words from the menu such as \"DEJEUNER,\" \"CAPPUCCINO,\" and \"TISANE.\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Bistro 4 stage",
+          "category": "Setting and Tech"
+        }
+      ],
+      "uuid": "62124563-7a34-4bf9-95a5-c0d1e0439c2c"
+    },
+    {
+      "start_time": 8,
+      "end_time": 90,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Testing the mic and sound system, playing the sanza. Then ambient sounds, audience voices.] | Video Description: Diagonal angle of the stage, capturing the performer from their right side. Medium shot of Trevor Ferrier sitting in front of the mic, playing the sanza on his lap, testing the mic. Ferrier wears a red Henley shirt with the sleeves rolled up, shaved head, and thin moustache. Zoom into a closeup as Ferrier finishes the sound check and leaves the stage. We see the reflex on the window of Ferrier hugging and talking to Lee Gotham. Then the camera remains stationary on part of the stage and the windows, with parked cars, falling snow, and the outdoor \"A LOUER\" sign across the street visible."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Trevor Ferrier"
+        }
+      ],
+      "uuid": "da88bb35-be61-4101-b061-b05ab3c43e81"
+    },
+    {
+      "start_time": 90,
+      "end_time": 235,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Recording skips to Lee Gotham speaking, mid-sentence] In one, (so?), three offerings. On vous presente ce soir toutes sortes de lectures. Enfin, c'est l'essai de comprendre l'histoire, peut-etre, de \"le mot dit,\" de l'origine. On commence avec deux raconteurs traditionnels. We've got a couple of traditional storytellers and, in the second half of the evening, we have the Groupe de Poesie Moderne to do something amazing with language and, I think it's safe to say, something representative of more or less the contemporary and... And I'd suggest... (?) did you ever think of the \"Groupe de Poesie Post-Moderne\"? Anyway, (all the way from?) the traditional (brand?) and, two varieties, two different languages represented: Njacko Backo, who'll be up presently, is a storyteller and musician who comes from Cameroon, un conteur traditionnel camerounais; and Trevor Ferrier, who will open the night's entertainments... he uses African percussion. And I think we'll all appreciate perhaps the contrast between a tradition of storytelling wherein the performer is basically the only vehicle for that tradition and, the other end of the spectrum, the Groupe de Poesie Moderne, a little later on. So, without a whole lot more chatter, I'm going to introduce Trevor Ferrier to you. Bon, faites comme vous voulez, c'est chez toi, chez vous, ce soir. I should mention that every coffee and beer sold goes a little way to helping the series continue, and I'll leave it at that. Trevor, if we may, please. Trevor Ferrier. [Applause]. | Video Description: Cut to a medium closeup of Lee Gotham making introductory remarks at the mic. Gotham wears a grey button-down shirt with sleeves a bit rolled up and tucked into jeans, black leather belt, full beard, and long hair tied in a ponytail. Different degrees of closeup as Gotham makes introductory remarks, often gently scratching the corner of his right eye."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Lee Gotham"
+        }
+      ],
+      "uuid": "4e777e1a-6385-4698-b8d8-b8d3a501f31f"
+    },
+    {
+      "start_time": 235,
+      "end_time": 1200,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Drums while telling a story in English, opening with the line \"Some have seen it and wish they hadn't.\" Applause.] | Video Description: Medium shot of Trevor Ferrier entering the stage and picking up his percussion instrument from the floor. Different degrees of closeup as Ferrier tells a story while playing percussion."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Trevor Ferrier"
+        }
+      ],
+      "uuid": "ffb2e949-8af8-4312-a835-6d4b9e18ac96"
+    },
+    {
+      "start_time": 1200,
+      "end_time": 2366,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Plays the sanza while telling another story in English, opening with the line \"Once on the far side of yesterday there lived a little girl who wanted to know the future.\" Applause.] | Video Description: Medium shot of Trevor Ferrier picking up the sanza.  Different degrees of closeup as Ferrier tells a story while playing the sanza. At some point the camera zooms into an extreme closeup of his hands playing."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Trevor Ferrier"
+        }
+      ],
+      "uuid": "2b6cec7e-abc1-4ef8-94d0-adb08465231a"
+    },
+    {
+      "start_time": 2366,
+      "end_time": 2384,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Thanks Trevor Ferrier and announces a break.] | Video Description: Lee Gotham walks to stage and makes remarks."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Lee Gotham"
+        }
+      ],
+      "uuid": "96089df3-24fc-436c-a1d8-034c31874c2c"
+    },
+    {
+      "start_time": 2384,
+      "end_time": 2392,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Cut to Lee Gotham introducing Njacko Backo.] | Video Description: Medium long shot from the other side of the stage, now capturing the performers slightly from a diagonal left."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Lee Gotham"
+        }
+      ],
+      "uuid": "8efe020f-a9a9-40dd-8766-2399ac3ea94b"
+    },
+    {
+      "start_time": 2392,
+      "end_time": 3172,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Salutes the audience in French and tells a story titled \"Macaco.\" Applause.] | Video Description: Closeup of Njacko Backo entering the stage. Backo wears a dark sweater, neck-length braided hair, and a large beaded necklace. As Backo tells a story, the camera alternates among different degrees of closeup and pans from side to side to accompany Backo on stage. At some point, Backo balances a percussion instrument (the same one Ferrier drummed) on his head, acting out part of the story. Backo incorporates call-and-responses and a choruses with the audience into the storytelling."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Njacko Backo"
+        }
+      ],
+      "uuid": "3c798f97-a1a9-4834-9cd9-61faed9b2747"
+    },
+    {
+      "start_time": 3172,
+      "end_time": 3255,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Thanks Njacko Backo amid applause. Announces the next performers.] | Video Description: Zoom to a medium closeup as Lee Gotham walks on stage, clapping and smoking. Gotham makes remarks and introduces the next performers."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Lee Gotham"
+        }
+      ],
+      "uuid": "6799cedc-3d58-4478-a1a7-b6082644b999"
+    },
+    {
+      "start_time": 3255,
+      "end_time": 3273,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Ambient sounds, voices]. | Video Description: Cut to a medium long shot as Lee Gotham, cigarette dangling from his mouth, climbs up a chair to tinker with cables, his back turned to the audience. On stage, we see the members of the Groupe de Poesie Moderne standing in a circular formation, all facing the stage, with the centre apparently empty."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Lee Gotham"
+        },
+        {
+          "tag": "Groupe de Poesie Moderne",
+          "category": "Performers and Speakers"
+        }
+      ],
+      "uuid": "9af012e0-b504-4313-8eeb-bbe2564293cb"
+    },
+    {
+      "start_time": 3273,
+      "end_time": 3660,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[The Groupe performs a spoken-word piece, alternating solos with choruses. Audience laughter as a group member repeats the line \"Ce soir.\" Applause.] | Video Description: Cut to medium shot of the Groupe de Poesie Moderne. All wear black shirts and pants. Six members of the group stand in a circular formation, all facing the stage, with the centre apparently empty. As the group performs, the camera zooms in and out of various degrees of closeup. At some point, a seventh performer emerges from the centre of the group formation, going up and down several times. Later on, the group briefly breaks the formation, acting out an argument."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Groupe de Poesie Moderne"
+        }
+      ],
+      "uuid": "47390a9a-6cf4-411e-9d77-406fdc7c49c3"
+    },
+    {
+      "start_time": 3660,
+      "end_time": 4020,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[The Groupe performs a second spoken-word piece, opening with the line \"Bonsoir, nous sommes le Groupe de Poesie Moderne!\" Applause.] | Video Description: Medium shot of the Groupe de Poesie Moderne. The seven group members now stand in a loose row, all facing the stage. Save by one performer, who reads, all members perform from memory. Zoom in and out of various degrees of closeup."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Groupe de Poesie Moderne"
+        }
+      ],
+      "uuid": "94f49222-4e66-46ab-89d7-3ab77b1052db"
+    },
+    {
+      "start_time": 4020,
+      "end_time": 4164,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[The Groupe performs a third piece, opening with the line \"Bonjour, ma tres belle, je suis inquiet pour toi.\" Applause.] | Video Description: Medium shot of the Groupe de Poesie Moderne performing. The piece opens with only two members dialoguing and facing the audience, while the others stand on either side of the duo, with their backs to the camera. A third member turns to the audience and stands in front of the duo, addressing the audience. At the end, all other members turn to salute the audience, amid applause."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Groupe de Poesie Moderne"
+        }
+      ],
+      "uuid": "83fbfd66-30fc-4ff1-a863-3774efaae869"
+    },
+    {
+      "start_time": 4164,
+      "end_time": 4206,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Thanks the Groupe de Poesie Moderne. Announces an open mic (not part of this recording), as well as upcoming events.] | Video Description: Medium long shot then closeup as Lee Gotham thanks the performers and makes announcements."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Lee Gotham"
+        }
+      ],
+      "uuid": "c0f9d81f-a2ec-4e97-af45-dcbbf802267b"
+    },
+    {
+      "start_time": 4206,
+      "end_time": 4207,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[End of recording.]"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "END",
+          "category": "Setting and Tech"
+        }
+      ],
+      "uuid": "ba7a95fb-eee8-4167-be0d-4f6699f99c33"
+    }
+  ],
   "set": "Default",
   "event_id": "66e44855-46cd-4e99-9a18-a4dcc9571336",
   "source_id": "a2d93ab3-0e78-49f2-8f27-42d6e4f555c5"
