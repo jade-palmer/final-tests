@@ -1,5 +1,1938 @@
 {
-  "annotations": [],
+  "annotations": [
+    {
+      "start_time": 4,
+      "end_time": 5,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Video description: Colour video. Long-shot of host Lee Gotham on the stage of the venue Bistro 4 (Quatre), addressing audience with opening remarks. Stage is juxtaposed with four large windowpanes that look onto vehicles and passerby on Saint-Laurent Boulevard. Evening. A large orb-shaped light hangs above the stage. Orange curtains are draped at the top of the windows. A number of unknown audience members are visible in the initial camera view."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Bistro 4 stage",
+          "category": "Setting and Tech"
+        }
+      ],
+      "uuid": "6df1eabf-50ad-4f14-bf5a-4a7fb8596a26"
+    },
+    {
+      "start_time": 5,
+      "end_time": 57,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Evening, peoples, peoples, peoples. Thank you very much, once again, for coming out, taking in some of the sights and sounds of the Main on a Monday evening in spring. We've got a hot show for you guys tonight. [Laughs] It'll be a lot of fun, gonna be some serious fun as well. To get into things without blabbing about local events, as I'll probably find ample opportunity to do so during various points during the evening, I'd like to just say, well, you know, thanks for coming. Clifton's really going to dig it, I know you're going to dig him and, um, I got a couple special surprises, the first of who I'll introduce right now. It's Norman Nawrocki. Can you welcome Norman, he's going to kick things off for us. [Audience applause]. | Video Description: Camera zooms in as Lee Gotham addresses audience while adjusting microphone stand. Gotham wears a white collared shirt over a graphic t-shirt, long brown hair in bun, and a beard. Gotham introduces Norman Nawrocki, and adjusts microphone."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Lee Gotham"
+        }
+      ],
+      "uuid": "80e8d24c-47e4-4852-8695-87bc229e0786"
+    },
+    {
+      "start_time": 57,
+      "end_time": 90,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Addresses audience. Introduces \"Soldiers for Jesus, Get Off!\" (later published in Rebel Moon: Anarchist Rants and Poems, AK Press, 1997). Audience laughter and applause throughout.] | Video Description: Norman Nawrocki enters via stage left. Narrocki wears a hoodie over a collared shirt and short blond/brown hair. C. Lee Gotham exits frame."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Norman Nawrocki"
+        }
+      ],
+      "uuid": "71b29909-20d6-45b0-836c-4ace06ceb5df"
+    },
+    {
+      "start_time": 90,
+      "end_time": 220,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Performs \"Soldiers for Jesus.\" Audience snapping, stomping, and laughter throughout. Audience applause at the end.] | Video Description: Norman Nawrocki reads poem from a sheet of paper, snapping fingers to lead audience. After performing, Nawrocki exits via stage left. Lee Gotham passes through camera view. Various unknown audience members pass back and forth through camera view, briefly blocking Gotham."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Norman Nawrocki"
+        }
+      ],
+      "uuid": "d1448d4a-75c2-411f-a459-7010c2a853cd"
+    },
+    {
+      "start_time": 220,
+      "end_time": 257,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Introduces Marcel (?). Audience applause.] | Video Description: Lee Gotham addresses audience. Lee Gotham introduces Marcel and exits stage left."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Lee Gotham"
+        }
+      ],
+      "uuid": "9cbc547d-f2cf-4428-a81f-676905e2d00c"
+    },
+    {
+      "start_time": 257,
+      "end_time": 307,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Addresses audience. Reads in French and then translates to English a few lines from Victor Hugo's \"La Function du poete,\" beginning with \"Peuples ! Ecoutez le poete !\"] | Video Description: Marcel enters from stage right. Marcel wears a white turtleneck, short brown hair, and a grey beard.  Addresses audience through microphone then reads poem from book."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Marcel"
+        }
+      ],
+      "uuid": "d1678a4c-454a-4f19-a600-12439336d836"
+    },
+    {
+      "start_time": 307,
+      "end_time": 440,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Addresses audience and reads \"Poem,\" beginning with the line \"There's a rustling in the silence.\" Audience applause.] | Video Description: Marcel addresses audience while flipping through publications, then reads poem from held publication."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Marcel"
+        }
+      ],
+      "uuid": "3ed89b02-d536-4bb4-b58b-4dfd3c1172f0"
+    },
+    {
+      "start_time": 440,
+      "end_time": 540,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Addresses audience and performs Unnamed Poem 2, in English. Audience applause.] | Marcel briefly addresses audience and reads poem from publication, pacing back and forth on stage, projecting voice without using microphone."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Marcel"
+        }
+      ],
+      "uuid": "504dc62e-462f-40d7-a012-907ab8ba1af5"
+    },
+    {
+      "start_time": 540,
+      "end_time": 806,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Performs Unnamed Poem 3, beginning in French then switching to English mid-poem. Audience applause]. | Video Description: Marcel shuffles through papers and publications then performs Unnamed Poem 3, moving from stage left to stage right throughout. Nods at audience, gathers pages and publications; then nods to Lee Gotham who walks onto stage from stage left. Marcel and Gotham briefly interact and Marcel exits stage right."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Marcel"
+        }
+      ],
+      "uuid": "40d238ed-152e-407b-8ae9-134a0eacb12a"
+    },
+    {
+      "start_time": 806,
+      "end_time": 861,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Addresses audience. Introduces Mark.] | Video Description: Lee Gotham addresses audience at microphone. Introduces Mark and exits stage left."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Lee Gotham"
+        }
+      ],
+      "uuid": "e4dafa9e-fa49-48ee-b451-72221a7197c9"
+    },
+    {
+      "start_time": 861,
+      "end_time": 900,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Addresses audience. Promotes Inkling Magazine. Introduces \"The Man in the Street\".] | Video Description: Mark enters stage left and addresses audience. Mark wears a black graphic t-shirt and long curly black hair."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Mark"
+        }
+      ],
+      "uuid": "fcc35b45-0bee-4bfd-86e8-aa10dc7094be"
+    },
+    {
+      "start_time": 900,
+      "end_time": 1365,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Reads \"The Man in the Street.\"] | Video Description: Mark reads short story from a stack of pages."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Mark"
+        }
+      ],
+      "uuid": "7d04fc56-cd51-40a3-a70b-a505d79bb795"
+    },
+    {
+      "start_time": 1365,
+      "end_time": 1605,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Interacts with Lee Gotham, saying \"almost.\" Addresses audience. Resumes reading \"The Man in the Street\". Audience applause.] | Video Description: Lee Gotham leans into camera view, saying something to Mark. Mark and Gotham briefly interact. Gotham exits frame. Mark addresses audience and finishes reading, before exiting stage left."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Mark"
+        }
+      ],
+      "uuid": "8d29cd68-d633-4d7f-9e95-715b25dd00bf"
+    },
+    {
+      "start_time": 1605,
+      "end_time": 1656,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Addresses audience. Introduces Justin McGrail, from Fluffy Pagan Echoes.] | Video Description: Lee Gotham adjusts microphone stand and addresses audience. Lee Gotham walks off via stage left."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Lee Gotham"
+        }
+      ],
+      "uuid": "839cac87-d419-4997-a7a5-075cb51eb63f"
+    },
+    {
+      "start_time": 1656,
+      "end_time": 1693,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Interacts with an offscreen audience member. Addresses audience. Introduces the dance-poetry show \"Of Fire and Sword\" as context for his first piece.] | Video Description: Justin McGrail walks on stage from stage left. McGrail wears a brown coat or blazer with pins on collar and short brown hair. McGrail briefly interacts with unseen audience member before addressing audience through microphone."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Justin McGrail"
+        }
+      ],
+      "uuid": "b060e7ff-97c8-4522-b58d-c64796fcfe03"
+    },
+    {
+      "start_time": 1693,
+      "end_time": 1785,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Begins performing \"Of Fire and Sword\" but immediately laughs and addresses audience. Audience laughter. Resumes performing \"Of Fire and Sword.\" Audience applause.] | Video Description: Justin McGrail closes eyes and recites words. Turns face away and mutters before laughing. Then addresses audience into microphone and resumes reciting the poem."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Justin McGrail"
+        }
+      ],
+      "uuid": "6ac15620-733d-4426-89ce-8149d88df19f"
+    },
+    {
+      "start_time": 1785,
+      "end_time": 1862,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Addresses audience. Introduces and performs \"Circle\". Thanks audience. Audience applause. | Video Description: Camera zooms in on Justin McGrail addressing audience. McGrail reads poem from piece of paper. Addresses audience before exiting via stage left."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Justin McGrail"
+        }
+      ],
+      "uuid": "edc7b96d-31a5-47d2-9fc6-c186565dfa45"
+    },
+    {
+      "start_time": 1862,
+      "end_time": 1915,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Addresses audience. Promotes next edition of Enough Said. Announces fifteen-minute break.] | Video Description: Lee Gotham enters stage via stage right and addresses audience. Lee Gotham adjusts microphone. Audience members passing in front of camera briefly obscures view."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Lee Gotham"
+        }
+      ],
+      "uuid": "0704eac9-f5d6-4257-b3aa-b97dec6e1c3f"
+    },
+    {
+      "start_time": 1915,
+      "end_time": 1917,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Ambient sounds, voices. | Video Description: Camera cuts to a close up shot of the lone mic."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Bistro 4 stage",
+          "category": "Setting and Tech"
+        }
+      ],
+      "uuid": "265a839e-c458-4b40-be00-8297ab2ed985"
+    },
+    {
+      "start_time": 1917,
+      "end_time": 2056,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Addresses audience. Promotes Norman Nawrocki's Human Life International counterprotests. Introduces Clifton Joseph. Audience applause.] | Video Description: Lee Gotham walks onto stage via stage right and addresses audience at microphone."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Lee Gotham"
+        }
+      ],
+      "uuid": "cb69ff2f-aa41-4c39-a860-cc212c23d87f"
+    },
+    {
+      "start_time": 2056,
+      "end_time": 2157,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Interacts with Lee Gotham. Addresses audience. Audience laughter throughout.] | Video Description: Clifton Joseph enters stage via stage left, drinking from glass. Joseph wears a brown button-up vest over a light green short-sleeved shirt, black-framed glasses, and short black hair. Lee Gotham adjusts microphone to Clifton Joseph's height. Clifton Joseph addresses audience."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Clifton Joseph"
+        }
+      ],
+      "uuid": "ef3098ee-af33-44bc-a2f7-66c2d5062b53"
+    },
+    {
+      "start_time": 2157,
+      "end_time": 2190,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Recites from Samuel Taylor Coleridge's \"The Rime of the Ancient Mariner.\" Addresses audience throughout. Audience laughter throughout.] | Video Description: Clifton Joseph addresses audience and recites poetry, making occasional gestures that emphasize portions of the poem."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Clifton Joseph"
+        }
+      ],
+      "uuid": "301cdebc-a924-43b7-bd02-d79796094aa3"
+    },
+    {
+      "start_time": 2190,
+      "end_time": 2485,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Laughs. Addresses audience, mentioning Allen Ginsberg, John Giorno, Jack Kerouac, LeRoi Jones/Amiri Baraka, Jayne Cortez, bill bissett, and The Four Horsemen (sound poetry group), among others. Audience laughter throughout.] | Video Description: Clifton Joseph addresses audience."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Clifton Joseph"
+        }
+      ],
+      "uuid": "f49ab214-d6e1-47f3-90dd-35ea16d1e453"
+    },
+    {
+      "start_time": 2485,
+      "end_time": 2546,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Performs poem beginning with singing and the line, \"When I look at the situation\".] | Video Description: Clifton Joseph performs poem, occasionally using pointing, snaps, and other gestures to emphasize the performance."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Clifton Joseph"
+        }
+      ],
+      "uuid": "42a2fc84-a571-4686-84d1-d004f3e76460"
+    },
+    {
+      "start_time": 2546,
+      "end_time": 2587,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Performs a poem with vocalizing a melody and the line \"See, you never know what a man may do\". Audience clapping along to beat.] | Video Description: Clifton Joseph performs poem."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Clifton Joseph"
+        }
+      ],
+      "uuid": "68a2a149-2366-4c36-b00e-a810784d2fa3"
+    },
+    {
+      "start_time": 2587,
+      "end_time": 2651,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Performs poem beginning with the line \"Damn, damn, damn, what a scam, what a sham\". Addresses audience. Audience laughter and applause.] | Video Description: Clifton Joseph performs poem. Sips from glass. Addresses audience."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Clifton Joseph"
+        }
+      ],
+      "uuid": "d1f2078b-3070-4199-ad7b-21f3b230c26d"
+    },
+    {
+      "start_time": 2651,
+      "end_time": 2790,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Imitates R&B singing group. Sings from \"Harlem Blues\". Addresses audience. Asks audience for lighter. Audience laughter throughout.] | Video Description: Clifton Joseph addresses audience. Clifton Joseph takes out a pack of cigarettes and lights one with a match from an audience member."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Clifton Joseph"
+        }
+      ],
+      "uuid": "78895886-8e34-4de4-88e7-bcbc6259ff23"
+    },
+    {
+      "start_time": 2790,
+      "end_time": 2970,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Resumes addressing audience. Introduces and performs \"I Remember Back Home\". Audience applause.] | Video Description: Clifton Joseph addresses audience. Performs poem. Ashes cigarette and drinks from glass."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Clifton Joseph"
+        }
+      ],
+      "uuid": "8272c480-de88-4fc6-8dda-d31ba47f440e"
+    },
+    {
+      "start_time": 2970,
+      "end_time": 3125,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Performs \"Pimps.\"] | Video Description: Clifton Joseph performs poem."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Clifton Joseph"
+        }
+      ],
+      "uuid": "46179a8d-d27b-411e-bd0d-24850a6b2a73"
+    },
+    {
+      "start_time": 3125,
+      "end_time": 3209,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Initiates call-and-response with audience.] | Video description: Cups hand to ear."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Clifton Joseph"
+        }
+      ],
+      "uuid": "4e71f5ac-4744-4d7e-8c73-773f341d5e75"
+    },
+    {
+      "start_time": 3209,
+      "end_time": 3335,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Addresses audience. Audience applause; audience laughter throughout.] | Video Description: Clifton Joseph smokes cigarette and crushes it under foot. Drinks from glass. Addresses audience."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Clifton Joseph"
+        }
+      ],
+      "uuid": "4365ab8c-ae50-42b6-a46c-25ca0724103a"
+    },
+    {
+      "start_time": 3335,
+      "end_time": 3490,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Performs \"Chuckie Prophesy\". Audience applause. Addresses audience. Audience laughter.] | Video Description: Clifton Joseph performs poem. Drinks from water glass. Addresses audience."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Clifton Joseph"
+        }
+      ],
+      "uuid": "3687131b-6908-49fd-965d-ec52148f9d48"
+    },
+    {
+      "start_time": 3490,
+      "end_time": 3496,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Interacts with Clifton Joseph.] | Video Description: Audience member interacts with Clifton Joseph."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Audience_Member1"
+        }
+      ],
+      "uuid": "6906f4eb-1480-4eae-b674-145230334f45"
+    },
+    {
+      "start_time": 3496,
+      "end_time": 3553,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Addresses audience.] | Video Description: Camera zooms out as Clifton Joseph addresses audience."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Clifton Joseph"
+        }
+      ],
+      "uuid": "3b1113bf-aca0-42d7-ad40-a37d256adbe5"
+    },
+    {
+      "start_time": 3553,
+      "end_time": 3840,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Performs \"Slo-Mo\". Audience applause.] | Video Description: Clifton Joseph performs poem. Drinks from glass."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Clifton Joseph"
+        }
+      ],
+      "uuid": "8543dfc0-28e8-4285-b34b-87578a586208"
+    },
+    {
+      "start_time": 3840,
+      "end_time": 4088,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Begins performing \"A Chant for Monk\". Interacts with unknown audience member off-screen. Laughs. Audience laughter. Resumes performing \"A Chant for Monk\".] | Video Description: Clifton Joseph performs poem. Camera zooms in as Clifton Joseph interacts briefly with offscreen audience member."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Clifton Joseph"
+        }
+      ],
+      "uuid": "6b352828-7f5b-411a-8bb7-87fc0710854e"
+    },
+    {
+      "start_time": 4088,
+      "end_time": 4152,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Initiates audience call-and-response. Resumes performing \"A Chant for Monk\".] | Video Description: Clifton Joseph performs, with gestures that accentuate performance."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Clifton Joseph"
+        }
+      ],
+      "uuid": "c43fdd35-1229-46a8-9742-ca7c7720d623"
+    },
+    {
+      "start_time": 4152,
+      "end_time": 4191,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Finishes performing \"A Chant for Monk\". Audience applause.] | Video Description: Clifton Joseph interacts with Lee Gotham. Clifton Joseph bows for audience applause."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Clifton Joseph"
+        }
+      ],
+      "uuid": "9d2959fc-2e64-4e1e-b1a4-7c9908bf0fcf"
+    },
+    {
+      "start_time": 4191,
+      "end_time": 4266,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Addresses audience. Promotes upcoming events, including Clifford Duffy's \"The Invention of God.\"] | Video Description: Camera zooms in as Lee Gotham adjusts microphone and addresses audience."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Lee Gotham"
+        }
+      ],
+      "uuid": "7326eeba-86f6-470a-8bf3-e15f3368a1a4"
+    },
+    {
+      "start_time": 4266,
+      "end_time": 4334,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Introduces Clifton Joseph's second set. Audience applause.] | Video Description: Jump cut. Extreme close-up on Lee Gotham addressing audience."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Lee Gotham"
+        }
+      ],
+      "uuid": "99de82a6-67e7-4564-98f7-3ed8678e2263"
+    },
+    {
+      "start_time": 4334,
+      "end_time": 4412,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Addresses audience. Audience applause and laughter throughout.] | Video Description: Camera zooms in and out on Clifton Joseph speaking into microphone, addressing audience."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Clifton Joseph"
+        }
+      ],
+      "uuid": "3cea72b6-a753-4801-bec6-80c4539afe8b"
+    },
+    {
+      "start_time": 4412,
+      "end_time": 4566,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Introduces and performs \"Lookin' for a Job.\" Audience laughter. Audience applause.] | Video Description: Clifton Joseph drinks from a glass in front of the microphone, then continues addressing audience. Camera zooms in and out on Clifton Joseph performing. Joseph improvises various gesticulations for emphasis, such as raising glasses off his face on the word \"sight.\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Clifton Joseph"
+        }
+      ],
+      "uuid": "c86980fd-d99d-4c47-ab10-ec6c17ccf30f"
+    },
+    {
+      "start_time": 4566,
+      "end_time": 5040,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Addresses audience. Interacts with audience member. Audience laughter throughout. Introduces and performs \"(Metropolitan Blues?).\" Audience applause.] | Video Description: Clifton Joseph walks around the microphone to drink from a glass. Camera zooms in and out on Clifton Joseph performing and laughing into microphone."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Clifton Joseph"
+        }
+      ],
+      "uuid": "397d6d83-bfe2-4824-8d18-0db709893fb3"
+    },
+    {
+      "start_time": 5040,
+      "end_time": 5085,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Briefly performs from \"Special Request\" before addressing audience.] | Video Description: Clifton Joseph walks around the microphone to drink from a glass. Briefly gesticulates as he performs lines from a song. Adjusts and speaks into microphone."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Clifton Joseph"
+        }
+      ],
+      "uuid": "bf84df5d-e603-4097-9c74-0906ebf30608"
+    },
+    {
+      "start_time": 5085,
+      "end_time": 5173,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Performs poem beginning with the line \"It is dumb, dumb, dumb.\" Concludes with audience call-and-response. Audience applause.] | Video Description: Clifton Joseph performing into microphone. Clifton Joseph points toward audience to initiate call-and-response."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Clifton Joseph"
+        }
+      ],
+      "uuid": "8eaa437b-ae0f-4b73-87f2-d328da979117"
+    },
+    {
+      "start_time": 5173,
+      "end_time": 5427,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Addresses audience, interacting with individual audience members throughout. Audience laughter throughout.] | Video Description: Clifton Joseph walks around the microphone to drink from a glass. Camera zooms in and out as Clifton Joseph addresses audience. Accepts glass from unseen audience member and drinks from it."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Clifton Joseph"
+        }
+      ],
+      "uuid": "71203970-61f2-40d9-9485-a00d9f07f849"
+    },
+    {
+      "start_time": 5427,
+      "end_time": 5663,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Performs poem beginning with loud vocalizations that turn from singing to screaming. Audience applause.] | Video Description: Camera zooms out as Clifton Joseph removes microphone from stand, places down glass, and holds microphone in hand. Camera pans across stage as Clifton Joseph performs, facing away from audience. Joseph turns toward audience and places microphone in stand. Lee Gotham briefly adjusts microphone as Joseph performs. Joseph moves microphone stand to stage right. Camera follows Joseph as he walks through audience performing. Audience applauds. Joseph wipes face with hand and walks through the crowd, exiting the camera's view. Camera pans back toward the stage. Lee Gotham enters frame and approaches microphone from stage left."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Clifton Joseph"
+        }
+      ],
+      "uuid": "c93ba496-64dd-4d4f-a12e-ab00c97cc88f"
+    },
+    {
+      "start_time": 5663,
+      "end_time": 5700,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Addresses audience. Audience applause.] | Video Description: Camera zooms in on Lee Gotham, who speaks into microphone and claps along with audience. He exits the frame. Camera pans across audience applauding. Joseph reenters frame. Camera pans, following Joseph walking toward the stage. Camera zooms in as Lee Gotham and Joseph embrace, and Joseph dances on stage. Joseph bows."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Lee Gotham"
+        }
+      ],
+      "uuid": "5944759b-00a3-4e04-a5e1-651bf835e648"
+    },
+    {
+      "start_time": 5700,
+      "end_time": 5721,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Addresses audience. Audience laughter.] | Video Description: Clifton Joseph speaks into microphone, addressing audience. Drinks from glass before walking off stage via stage left. Lee Gotham walks to stage."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Clifton Joseph"
+        }
+      ],
+      "uuid": "01dfde25-1d0a-4fa8-9417-b7fcc21e61b6"
+    },
+    {
+      "start_time": 5721,
+      "end_time": 5762,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Addresses audience and announces break. Laughs.] | Video Description: Lee Gotham adjusts microphone stand and addresses audience. Brief VCR static."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Lee Gotham"
+        }
+      ],
+      "uuid": "f8cf583c-091a-4e63-b9df-c57e085789ce"
+    },
+    {
+      "start_time": 5762,
+      "end_time": 5858,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Addresses audience. Reads from Unnamed Periodical. Addresses audience member (\"See you later, Bob\") and resumes addressing audience. Announces open mic and its first performer, Steve Hawley.] | Video Description: Close-up on Lee Gotham speaking into microphone and reading from a periodical. Lee Gotham exits frame and returns with a dictionary. Waves to an audience member off-screen before addressing audience again."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Lee Gotham"
+        }
+      ],
+      "uuid": "b633ec1c-41b8-4f0f-a28d-751845dbbf4f"
+    },
+    {
+      "start_time": 5858,
+      "end_time": 5901,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Addresses audience. Addresses Audience_Member2.] | Video Description: Lee Gotham moves out of frame. Steve \"Liquid\" Hawley enters stage from stage left. Hawley wears a black sweatshirt and backward baseball cap on short dark hair. Hawley holds a cigarette. Hawley lifts microphone from stand and holds it close to mouth while addressing audience. Camera zooms out, revealing Hawley holding a glass."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Steve \"Liquid\" Hawley"
+        }
+      ],
+      "uuid": "1a243086-99a9-4f9d-b0de-b0c2ea3f576b"
+    },
+    {
+      "start_time": 5901,
+      "end_time": 5926,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Performs a piece beginning with the line \"We got (?) children's candy.] | Video Description: Steve \"Liquid\" Hawley raps into microphone."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Steve \"Liquid\" Hawley"
+        }
+      ],
+      "uuid": "f941fe2e-de55-4908-9e02-c998a7961e30"
+    },
+    {
+      "start_time": 5926,
+      "end_time": 6074,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Addresses audience. Interacts with unknown audience member. Introduces and performs piece beginning with the line \"I see people on a mission every day of their lives\". Laughs; audience laughter.] | Video Description: Steve \"Liquid\" Hawley speaks to audience and briefly dances while making a joke. Places down glass. Camera zooms in to close-up as Hawley introduces and performs next piece. Hawley raps into microphone, briefly laughs, and continues performing."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Steve \"Liquid\" Hawley"
+        }
+      ],
+      "uuid": "e4ec8df9-c42a-4149-9876-f58ab27721fb"
+    },
+    {
+      "start_time": 6074,
+      "end_time": 6207,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Introduces and performers piece beginning with the line \"It's rough, growing up without peers.\" Addresses audience. Audience applause.] | Video Description: Steve \"Liquid\" Hawley raps into microphone. Camera zooms out as Hawley exits frame. Lee Gotham claps while walking up to microphone."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Steve \"Liquid\" Hawley"
+        }
+      ],
+      "uuid": "5b5508f0-baf9-4d60-8ad8-0ce0ad6bf239"
+    },
+    {
+      "start_time": 6207,
+      "end_time": 6225,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Addresses audience. Announces Sabrina. Audience applause.] | Video Description: Lee Gotham adjusts microphone. Camera zooms in as Gotham speaks to audience. Sabrina moves across screen, walking toward stage. Gotham adjusts microphone to Sabrina's height and exits stage left."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Lee Gotham"
+        }
+      ],
+      "uuid": "c23b3d38-0f30-4fb6-8027-1adc788e312f"
+    },
+    {
+      "start_time": 6225,
+      "end_time": 6455,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Addresses audience. Introduces and performs \"(?) Blues.\" Laughs and addresses audience mid-poem. Audience laughter and applause.] | Video Description: Camera zooms in and out as Sabrina addresses audience. Sabrina wears a dark jacket, patterned scarf around neck, and brown, shoulder-length hair with a clip. Reads poem from a piece of paper. Looks toward applauding audience members off-screen. Stops reading and addresses audience, making \"finger-gun\" motions. Laughs and looks behind left shoulder, away from audience, then recites the rest of the poem. Walks out of frame."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Sabrina"
+        }
+      ],
+      "uuid": "565472bd-ff12-4789-8f30-4f3168c73aed"
+    },
+    {
+      "start_time": 6455,
+      "end_time": 6511,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Addresses audience. Announces Andy. Interacts with Andy, before announcing Paco W.] | Video Description: Sabrina moves across camera view as Lee Gotham arrives at microphone. Lee Gotham addresses audience. Gotham exits frame."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Lee Gotham"
+        }
+      ],
+      "uuid": "c2981edf-16dc-469d-9666-39898e2116cb"
+    },
+    {
+      "start_time": 6511,
+      "end_time": 6626,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Reads a piece beginning with the line \"I will telling of nothing, nothing, I'll tell you.\" Audience applause.] | Video Description: Paco walks to microphone and makes brief \"sign of the horns\" gesture. Paco wears a collared shirt, an earring in left ear, and short brown hair. Paco adjusts microphone before reading poem from a stack of pages."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Paco W."
+        }
+      ],
+      "uuid": "e3ce959f-0b8d-4051-b7f2-c0eb4da1b00c"
+    },
+    {
+      "start_time": 6626,
+      "end_time": 6711,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Introduces and reads from \"Fragments of Our (Kin?).\" Audience applause.] | Video Description: Paco steps briefly away from microphone. Passing audience member obscures camera view. Paco looks down toward pages and steps back in front of microphone. Reads into microphone from stack of pages. Walks off-screen. Lee Gotham returns to microphone and adjusts stand."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Paco W."
+        }
+      ],
+      "uuid": "c21ff50b-fa59-41da-b843-beeb5cca0e13"
+    },
+    {
+      "start_time": 6711,
+      "end_time": 6733,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Addresses Andy. Introduces Andy. Audience applause.] | Video Description: Lee Gotham addresses Andy (who is off-screen) before walking off-screen."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Lee Gotham"
+        }
+      ],
+      "uuid": "29cd44ad-6836-47d5-8b21-cc49bb6f6058"
+    },
+    {
+      "start_time": 6733,
+      "end_time": 6815,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Addresses audience. Reads Unnamed Piece. Audience applause.] | Video Description: Camera tilts upward as Andy walks to microphone. Andy wears a red shirt, black toque, a necklace, and curly chin-length hair. Andy reads from notebook."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Andy"
+        }
+      ],
+      "uuid": "dab4520c-e686-4724-96a4-38bd5edfb25d"
+    },
+    {
+      "start_time": 6815,
+      "end_time": 6920,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Reads \"Quiet.\" Audience laughter throughout. Audience applause.] | Video Description: Andy closes notebook and turns around to grab a piece of paper before speaking into microphone. Looks down at page while reading. Moves away from microphone and walks out-of-frame via stage left. Lee Gotham moves to microphone."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Andy"
+        }
+      ],
+      "uuid": "fad9ae91-bc78-4250-8db6-7244db62f271"
+    },
+    {
+      "start_time": 6920,
+      "end_time": 6929,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Addresses and introduces David J.] | Video Description: Lee Gotham speaks into microphone addressing David J. (who is off-screen) before exiting stage-left, out of frame."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Lee Gotham"
+        }
+      ],
+      "uuid": "98ede020-3969-4d89-8017-70dfbf8eae6f"
+    },
+    {
+      "start_time": 6929,
+      "end_time": 6970,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Addresses audience. Introduces and reads \"Who Do?\" Audience laughter, applause.] | Video Description: David J. walks to microphone and addresses audience. J. wears a black sweater over a grey collared shirt and short black hair. Camera zooms out as David speaks to audience while flipping through a notebook. Reads from notebook."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "David J."
+        }
+      ],
+      "uuid": "07d967a1-e0fa-4491-9229-8a7f64327dbf"
+    },
+    {
+      "start_time": 6970,
+      "end_time": 7015,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Introduces \"Cadillac Bomb.\" Audience applause.] | Video Description: David J. speaks to audience while flipping through notebook. Reads from notebook."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "David J."
+        }
+      ],
+      "uuid": "8259bb72-fd3e-42f8-b429-27dd9fb4f58d"
+    },
+    {
+      "start_time": 7015,
+      "end_time": 7122,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Introduces and reads \"The Devil's Got the Goods\". Audience applause.] | Video Description: David J. steps away from microphone and flips through notebook. Speaks, inaudibly, to off-screen audience member. Addresses audience. Camera zooms in as David reads from notebook. David steps away from microphone and nods to audience, before walking stage left, off-screen. Lee Gotham approaches microphone."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "David J."
+        }
+      ],
+      "uuid": "05840809-a6d2-41de-adf4-849d440bee36"
+    },
+    {
+      "start_time": 7122,
+      "end_time": 7163,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Addresses audience. Asks about Jeff, then invites Unknown_Reader1 to the stage.] | Video Description: Lee Gotham speaks to audience. An unnamed audience member briefly passes in front of Lee Gotham."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Lee Gotham"
+        }
+      ],
+      "uuid": "86c1d174-2e66-412d-90bf-d2e9ff1e70c1"
+    },
+    {
+      "start_time": 7163,
+      "end_time": 7195,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Introduces and reads (\"Also Badge\"?).] | Video Description: Unknown_Reader1 approaches microphone with a stack of papers. Unknown_Reader1 wears a pink t-shirt and long straight brown hair. Reads from stack of papers."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Unknown_Reader1"
+        }
+      ],
+      "uuid": "6655eb72-a515-4b89-8b8a-aa09cade4322"
+    },
+    {
+      "start_time": 7195,
+      "end_time": 7232,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Introduces and reads \"For Salman\" (Salman Rushdie). Audience applause.] | Video Description: Unknown_Reader1 briefly steps away from microphone before introducing another poem. Reads from stack of papers."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Unknown_Reader2"
+        }
+      ],
+      "uuid": "55eb93c7-a590-4969-ba14-8f8f24f2cf64"
+    },
+    {
+      "start_time": 7232,
+      "end_time": 7301,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Introduces and reads Unnamed Poem. Thanks audience. Audience applause.] | Video Description: Unknown_Reader1 briefly steps away from microphone before introducing another poem. Reads from stack of papers. Addresses audience and walks from microphone, exiting stage left. Camera zooms out as Lee Gotham approaches microphone."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Unknown_Reader3"
+        }
+      ],
+      "uuid": "3461f826-66e0-40fb-8a1d-fdbdc97b4df6"
+    },
+    {
+      "start_time": 7301,
+      "end_time": 7319,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Addresses audience. Interacts with Ed.] | Video Description: Lee Gotham speaks to audience before interacting briefly with Ed off-screen. Ed enters from stage left as Lee Gotham adjusts microphone. Camera zooms in as Ed moves toward microphone and Lee Gotham exits stage left."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Lee Gotham"
+        }
+      ],
+      "uuid": "7f40b0f3-2477-4600-969f-d32f3fe28a15"
+    },
+    {
+      "start_time": 7319,
+      "end_time": 7446,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Introduces and reads \"Open Hand, Empty Hand.\" Thanks audience. Audience applause.] | Video Description: Ed addresses audience. Ed wears a dark trench coat over a collared shirt and brown hair in bowl-cut style. Reads poem. Addresses audience and exits stage left. Lee Gotham enters and moves to microphone."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Ed"
+        }
+      ],
+      "uuid": "01f811e8-05a7-47ba-a568-9d2fa81fefcf"
+    },
+    {
+      "start_time": 7446,
+      "end_time": 7465,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Addresses audience. Announces Lion Man.] | Video Description: Lee Gotham speaks into microphone, addressing audience and Lion Man. Gotham adjusts microphone as Lion Man enters frame from stage right."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Lee Gotham"
+        }
+      ],
+      "uuid": "219322ba-1bcf-4ed4-8a14-b741e56ee3d9"
+    },
+    {
+      "start_time": 7465,
+      "end_time": 7470,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Makes purring noise into microphone. Audience laughter.] | Video Description: Lion Man addresses audience. Lion man wears an emerald green vest, a brown collared shirt, and straight chin-length brown hair. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Lion Man"
+        }
+      ],
+      "uuid": "f3bf09b7-ca4f-47af-861a-f60483afe2e3"
+    },
+    {
+      "start_time": 7470,
+      "end_time": 7588,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Performs \"Impropaganda.\" Audience applause.] | Video Description: Lion Man recites poem into the microphone."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Lion Man"
+        }
+      ],
+      "uuid": "fbec8d53-269d-4ee5-ac05-f4c5a8b653d6"
+    },
+    {
+      "start_time": 7588,
+      "end_time": 7773,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Addresses audience. Audience laughter. Introduces and reads Unnamed Poem, about \"if water and plant life could speak to us.\" Audience applause.] | Video Description: Lion Man steps away from microphone and smiles. Addresses audience. Flips through notebook before addressing audience. Reads poem from notebook. Closes notebook and steps away from microphone, exiting stage right. Camera zooms out as Lee Gotham enters from stage left, clapping, and walks up to microphone."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Lion Man"
+        }
+      ],
+      "uuid": "b67b076e-436d-42b1-b2e3-61c569f842d9"
+    },
+    {
+      "start_time": 7773,
+      "end_time": 7804,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Thanks Lion Man. Announces Christine. Promotes upcoming event, Clifford Duffy's \"The Invention of God,\" at the Woodstock Bar.] | Video Description: Lee Gotham addresses audience, speaking into microphone. Christine enters frame from stage left and flips through papers. Gotham adjusts microphone and walks off-camera, exiting stage left."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Lee Gotham"
+        }
+      ],
+      "uuid": "ecd726c9-51d2-406e-8f41-ca034bd8ccb9"
+    },
+    {
+      "start_time": 7804,
+      "end_time": 7843,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Addresses audience. Audience response. Laughs and resumes addressing audience.] | Video Description: Christine stands to the side of microphone, flipping through pages. Christine wears a black collared shirt, light-wash jeans with a large belt buckle, and short blonde hair. Christine walks up to the microphone and addresses audience. Christine laughs at and flips through pages. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Christine"
+        }
+      ],
+      "uuid": "8f36060a-eb5b-44e7-a582-9f06b51c477f"
+    },
+    {
+      "start_time": 7843,
+      "end_time": 7912,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Reads a poem beginning with the line \"Why do I feel so (?) like a little girl.\" Audience applause.] | Video Description: Camera zooms in and out on Christine reading from notebook. Looks down away from audience. Camera zooms out as Christine flips to a new page."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Christine"
+        }
+      ],
+      "uuid": "1d3f3857-f94b-4d52-af6e-e49b623201ef"
+    },
+    {
+      "start_time": 7912,
+      "end_time": 8010,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Reads a poem beginning with the line \"Okay, it's all over now.\" Audience applause.] | Video Description: Christine reads from notebook. Flips through notebook pages before settling on a new page."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Christine"
+        }
+      ],
+      "uuid": "0fb313d8-a30f-4228-82c9-711fb6001d4b"
+    },
+    {
+      "start_time": 8010,
+      "end_time": 8077,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Reads from \"Unfinished Poems.\" Audience applause.] | Video Description: Christine reads from notebook. Walks from microphone and off-screen via stage left. Christine is seen again passing through camera's view. Lee Gotham enters from stage left and walks to microphone."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Christine"
+        }
+      ],
+      "uuid": "ac5b75aa-16eb-4ad0-a282-81d103f6fba2"
+    },
+    {
+      "start_time": 8077,
+      "end_time": 8097,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Addresses audience. Thanks Christine. Announces Steve Godin.] | Video Description: Lee Gotham addresses audience. An unknown audience member passes briefly through camera view. Gotham exits as Steve Godin walks toward the microphone from stage right."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Lee Gotham"
+        }
+      ],
+      "uuid": "d7d647c9-a2bc-4ff0-b7dd-ff586709a770"
+    },
+    {
+      "start_time": 8097,
+      "end_time": 8327,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Addresses audience. Introduces and reads Unnamed Poem 1. Audience applause. Thanks audience.] | Video Description: Steve Godin addresses audience while looking through pages. Godin wears a black leather jacket over a black t-shirt and long grey straight hair. Reads from a stack of pages. Addresses audience and exits via stage right. Lee Gotham approaches microphone from stage left."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Steve Godin"
+        }
+      ],
+      "uuid": "fc8d8577-8aab-4848-b18b-f07bdd928999"
+    },
+    {
+      "start_time": 8327,
+      "end_time": 8345,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Thanks Steve Godin. Announces Simon.] | Video Description: Lee Gotham addresses audience and exits stage left."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Lee Gotham"
+        }
+      ],
+      "uuid": "5e222b36-f11f-4612-8c8e-ffb4f3d15ba5"
+    },
+    {
+      "start_time": 8345,
+      "end_time": 8390,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Addresses audience. Introduces and reads \"Pulling Me In.\" Audience applause.] | Video Description: Camera tilts down as Simon approaches microphone. Simon wears a blue long sleeve t-shirt, round glasses, and collar-length straight brown hair. Camera zooms in as Simon addresses audience. Simon reads into the microphone."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Simon"
+        }
+      ],
+      "uuid": "33c54489-b1c6-47d4-8191-582515264519"
+    },
+    {
+      "start_time": 8390,
+      "end_time": 8623,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Addresses audience. Introduces and reads \"The Day with the Face.\" Thanks audience. Audience applause.] | Video Description: Simon steps briefly away from microphone before stepping back and addressing audience. Simon raises stack of pages higher, into frame. Reads from stack of pages. Steps away from microphone and looks down. Speaks briefly into microphone before exiting stage left. Camera zooms out as Lee Gotham approaches microphone from stage right. Gotham takes cigarette out of mouth."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Simon"
+        }
+      ],
+      "uuid": "e459b80a-33da-4a4a-a18c-051d2a12dc25"
+    },
+    {
+      "start_time": 8623,
+      "end_time": 8671,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Thanks Simon. Interacts with off-screen audience member (Jean-Luc). Introduces Tom. Audience applause.] | Video Description: Lee Gotham addresses audience, laughing throughout. Gotham moves from microphone and exits stage right."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Lee Gotham"
+        }
+      ],
+      "uuid": "1f4aa3ef-0782-42a1-bed3-cdcab60d424d"
+    },
+    {
+      "start_time": 8671,
+      "end_time": 8780,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Addresses audience. Audience laughter] Introduces and performs \"Call Before You Dig.\"] | Video Description: Tom enters from stage left. Tom wears a navy flannel jacket, black backwards baseball cap, and blond hair. Reads from pages."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Tom"
+        }
+      ],
+      "uuid": "2012c874-e66e-497f-a1f3-fd0289f25db3"
+    },
+    {
+      "start_time": 8780,
+      "end_time": 8876,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Addresses audience. Audience applause. Introduces and reads \"The Conspiracy of the (?) Dentist.\" Laughs. Addresses audience. Audience laughter and applause.] | Video Description: Tom steps away from microphone and shuffles through pages. Approaches microphone and addresses audience. Reads from pages. Then exits stage left. Camera zooms out as Lee Gotham approaches microphone clapping. Lee Gotham adjusts microphone."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Tom"
+        }
+      ],
+      "uuid": "017ae1b9-c694-4f23-a876-06550ed0234a"
+    },
+    {
+      "start_time": 8876,
+      "end_time": 8884,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Addresses audience with concluding remarks.] | Video Description: Lee Gotham addresses audience, removes cigarette from mouth, and resumes speaking. An audience member briefly passes through camera view."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Lee Gotham"
+        }
+      ],
+      "uuid": "48a02975-d1c9-404c-b640-8b6806c3382a"
+    },
+    {
+      "start_time": 8884,
+      "end_time": 8885,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[End of recording.]"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "END",
+          "category": "Setting and Tech"
+        }
+      ],
+      "uuid": "55b70c5c-952b-4f1c-b757-a7404ba0e3e3"
+    }
+  ],
   "event_id": "66e44855-46cd-4e99-9a18-a4dcc9571336",
   "set": "joseph",
   "source_id": "a2d93ab3-0e78-49f2-8f27-42d6e4f555c5"
