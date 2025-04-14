@@ -1,5 +1,2047 @@
 {
-  "annotations": [],
+  "annotations": [
+    {
+      "start_time": 16,
+      "end_time": 19,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Ambient sounds (movement, conversation).] | Video Description: Colour video. Camera view at first rocks, unstable, as it repositions. Long shot of the Bistro 4 (Quatre) stage, with audience members before it sitting at tables and chairs also in view. The stage is slightly below street level, with numerous large window panes that face Saint-Laurent Boulevard. Vague shapes of cars, streetlights, and passerby are visible through the window. Yellow curtains frame the windows, and a large light hangs from the ceiling above the audience. A painting or illustration is on the wall adjacent to stage right. Event organizer and host Lee Gotham is in the camera foreground, speaking to an unknown audience member and pointing at something out-of-frame. Gotham wears a green shirt and light brown shoulder-length hair. Behind Lee Gotham, bill bissett stands facing audience on the stage. bissett wears a graphic t-shirt, thick-framed glasses, and chin-length hair. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Bistro 4 stage",
+          "category": "Setting and Tech"
+        }
+      ],
+      "uuid": "c5ea32c3-c92c-41a5-aeee-c22bef3bbd49"
+    },
+    {
+      "start_time": 19,
+      "end_time": 399,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Performs Unnamed Poem 1 with chant-like vocalizations and maraca including the line \"I got a feeling we're going to make (?) strong.\"] | Video Description: Camera zooms into closeup on bill bissett performing a piece and keeping rhythm with a maraca. bissett wears a black and white patterned vest over a blue tie-dye shirt with a white graphic on the front, large square plastic-framed glasses, and shoulder-length light brown hair with a receding hairline. Camera zooms in and out between closeup and medium closeup on bissett and his maraca. Lee Gotham briefly passes through camera view."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "bill bissett"
+        }
+      ],
+      "uuid": "6d3382ba-4d09-41d5-a921-1d9088c64daa"
+    },
+    {
+      "start_time": 399,
+      "end_time": 418,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Finishes Unnamed Poem 1. Audience applause. bill bissett addresses audience.] | Video Description: bill bissett stops the rhythm and brings the maraca to his lips. Camera zooms out into a long shot as bissett puts maraca in his back pocket and picks up a binder with multiple documents inside. Audience members applaud. bissett addresses audience."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "bill bissett"
+        }
+      ],
+      "uuid": "15ada04f-cb84-4c24-a959-95b8f7cdbcb7"
+    },
+    {
+      "start_time": 418,
+      "end_time": 667,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Reads \"n e c k s\" (from Th last photo uv th human soul, Talonbooks, 1993). Audience laughter throughout.] | Video Description: Camera zooms in and out between long shot, medium long shot, and closeup on bill bissett reading poem from lifted binder."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "bill bissett"
+        }
+      ],
+      "uuid": "3ec3d887-2b67-4a0b-9de4-e2b38f6a8273"
+    },
+    {
+      "start_time": 667,
+      "end_time": 708,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Finishes reading \"n e c k s\". Audience applause. bill bissett introduces Sharon H. Nelson. Audience laughter and applause.] Video Description: bill bissett closes binder and rubs hand across forehead. Camera pans across the room, capturing a full venue of applauding audience members. Camera zooms into closeup on bissett addressing audience. bill bissett begins walking off stage via stage left. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "bill bissett"
+        }
+      ],
+      "uuid": "19010301-c052-4ff2-920d-02a91cb37db2"
+    },
+    {
+      "start_time": 708,
+      "end_time": 719,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Ambient sounds (voices).] | Video Description: Nelson stands up from audience and places hand on bissett's shoulder before moving by him. Nelson speaks to an audience member out-of-frame (bissett?) before walking to the microphone stand on stage."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Sharon H. Nelson"
+        }
+      ],
+      "uuid": "733dd28e-91b6-4548-bbd6-b50d7bfa6884"
+    },
+    {
+      "start_time": 719,
+      "end_time": 808,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Addresses audience. Interacts with bill bissett. Audience laughter. Addresses audience, introducing Unnamed Poem 1 as a response to bissett's \"(ken and heath made for life?).\" Audience laughter.] | Video Description: Sharon H. Nelson speaks into the microphone, which is set significantly higher on the stand than their height. Nelson wears a green and orange patterned dress, long dark hair, and a necklace. Nelson addresses bill bissett (off-screen). Nelson addresses audience. An unseen audience member adjusts microphone stand to Nelson's height. Nelson spits out gum and looks for place to put chewed wad. An unseen audience member stretches out palm in front of Nelson. Nelson addresses audience before glancing down at the pages they hold."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Sharon H. Nelson"
+        }
+      ],
+      "uuid": "33e4017d-4f5e-41b4-90c7-bf0578470ddf"
+    },
+    {
+      "start_time": 808,
+      "end_time": 1029,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Reads Unnamed Poem 1 beginning with the line \"I hear the geese before I see them.\" Audience laughter throughout.] | Video Description: Camera zooms in and out on Sharon H. Nelson reading from pages. Nelson breaks from reading to address audience before returning to reading."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Sharon H. Nelson"
+        }
+      ],
+      "uuid": "5924ad9a-c418-4121-ac8c-5438b069c9aa"
+    },
+    {
+      "start_time": 1029,
+      "end_time": 1080,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Finishes Unnamed Poem 1. Audience applause. bill bissett addresses audience. Sharon H. Nelson interacts with bill bissett. Audience laughter.] | Video Description: Sharon H. Nelson puts down sheets of paper on the floor and walks off via stage left. Camera zooms out to long shot, capturing applauding audience members. bill bissett walks up to microphone stand via stage left. bissett addresses audience and adjusts microphone stand height. Camera pans right. Nelson addresses bissett. Audience members laugh. Lee Gotham is at one of the large window panes, adjusting a fixture. Camera pans left, back toward bissett on stage. Audience members briefly pass through camera view. bissett adjusts glasses, opens binder, and flips through pages."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Sharon H. Nelson"
+        },
+        {
+          "tag": "bill bissett",
+          "category": "Performers and Speakers"
+        }
+      ],
+      "uuid": "21e9ad96-bd69-41a1-98b0-861ce45f1dcd"
+    },
+    {
+      "start_time": 1080,
+      "end_time": 1251,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Reads Unnamed Poem 2 beginning with the line \"Vapours, don't blame it on the dog.\"] | Video Description: Medium shot of bissett reading a poem from a lifted binder"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "bill bissett"
+        }
+      ],
+      "uuid": "461f435e-90eb-4c9c-bca5-2be7f2034bb8"
+    },
+    {
+      "start_time": 1251,
+      "end_time": 1261,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Finishes Unnamed Poem 2. Audience applause. bill bissett thanks audience.] | Video Description: bill bissett flips page and addresses audience."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "bill bissett"
+        }
+      ],
+      "uuid": "01581f42-bac1-49e6-8448-d782307ba6e6"
+    },
+    {
+      "start_time": 1261,
+      "end_time": 1386,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Reads \"unmatching phenomena\" (from Inkorrect Thots, Talonbooks, 1992). Audience laughter throughout.] | Video Description: billl bissett reads from binder. Audience members briefly pass through camera view."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "bill bissett"
+        }
+      ],
+      "uuid": "1a532c03-f684-4d64-8c1a-ee05f5cf126b"
+    },
+    {
+      "start_time": 1386,
+      "end_time": 1401,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Finishes \"unmatching phenomena\". Audience applause. bill bissett thanks audience. Audience laughter. Begins poem before breaking off to address audience. Audience laughter.] | Video Description: bill bissett lowers binder and glances down, flipping through it. bill bissett lifts binder again and addresses audience. bissett smiles at audience laughter and addresses audience, lifting hand."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "bill bissett"
+        }
+      ],
+      "uuid": "4dd6b2b6-d23f-44ea-972d-4514ca5af140"
+    },
+    {
+      "start_time": 1401,
+      "end_time": 1509,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Resumes reading \"last nite I had a nitemare abt free trade\" (from Inkorrect Thots). Audience laughter throughout.] | Video Description: bill bissett resumes reading from binder."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "bill bissett"
+        }
+      ],
+      "uuid": "7d5c9b54-a071-4070-9a6d-39aeef0017f4"
+    },
+    {
+      "start_time": 1509,
+      "end_time": 1522,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Finishes \"last nite I had a nitemare abt free trade\". Audience applause. bill bissett thanks audience.] | Video Description: Camera zooms in and out as bill bissett lowers binder and flips through its pages. bissett addresses audience."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "bill bissett"
+        }
+      ],
+      "uuid": "d9bfbdab-cca2-4b3d-86e7-b320268f3ecc"
+    },
+    {
+      "start_time": 1522,
+      "end_time": 1664,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Begins reading Unnamed Poem 3 beginning with the line \"Who wrote the script though? Don't you always wonder that?\" before breaking off to addresses audience. Audience laughter. Resumes reading poem before addressing audience and interacting with Unknown_Audience_Member. Audience laughter. bill bissett interacts with another Unknown_Audience_Member. Audience laughter. Resumes reading poem. Audience laughter and applause throughout.] | Video Description: bill bissett begins reading from binder before addressing audience, raising hand. bissett resumes reading before addressing audience again. An unseen audience member addresses bissett and they interact. bissett interacts with another unseen audience member. bissett resumes reading from binder."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "bill bissett"
+        }
+      ],
+      "uuid": "9881b619-44b6-4e3e-a7bd-b64468b2f178"
+    },
+    {
+      "start_time": 1664,
+      "end_time": 1686,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Finishes Unnamed Poem 3. Audience applause. bill bissett thanks audience. Unknown_Audience_Member and bissett interact.] | Video Description: Camera zooms out to long shot as bill bissett lowers binder and flips through pages. Camera pans across audience members applauding. bill bissett addresses audience. bissett interacts with an unseen audience member."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "bill bissett"
+        }
+      ],
+      "uuid": "40ccc497-f152-489f-9270-662e898b0d29"
+    },
+    {
+      "start_time": 1686,
+      "end_time": 1838,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Reads \"reflex blu\" (from What We Have, Talonbooks, 1988, https://worldcat.org/en/title/18641644).] | Video Description: Camera zooms in and out between closeup and medium closeup on bill bissett reading from binder."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "bill bissett"
+        }
+      ],
+      "uuid": "82a534dc-f718-4f76-a2ce-8596d7103180"
+    },
+    {
+      "start_time": 1838,
+      "end_time": 1876,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Finishes \"reflex blu\". Audience applause. Introduces Sharon H. Nelson. Audience applause.] | Video Description: bill bissett lowers binder and adjusts glasses, looking out at audience. bill bissett addresses audience. bill bissett walks toward Sharon H. Nelson stage-left and they shake hands and exchange a kiss. Nelson walks toward microphone stand. bissett takes seat adjacent to stage left.]"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "bill bissett"
+        }
+      ],
+      "uuid": "f24adbfb-568f-46e1-acdb-870fe6998127"
+    },
+    {
+      "start_time": 1876,
+      "end_time": 1949,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Addresses audience. Addresses Unknown_Audience_Member. Addresses audience. Introduces \"Form and Structure\" (from Grasping Men's Metaphors, Muses' Co., 1993) mentioning Dorothy Parker. Audience laughter.] | Video Description: Camera zooms into a closeup on Sharon H. Nelson tilting microphone downward and addressing audience. An unknown audience member walks into the frame, kneeling to adjust microphone stand to Nelson's height. Nelson addresses unknown audience member."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Sharon H. Nelson"
+        }
+      ],
+      "uuid": "00231463-3b9c-413d-8527-863995bdeb3e"
+    },
+    {
+      "start_time": 1949,
+      "end_time": 1984,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Reads \"Form and Structure\". Audience laughter throughout.] | Video Description: Sharon H. Nelson reads to the audience, with gestures to accentuate the poem's humour."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Sharon H. Nelson"
+        }
+      ],
+      "uuid": "607b7bc5-0e75-4a46-8a76-0f26c6193194"
+    },
+    {
+      "start_time": 1984,
+      "end_time": 2019,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Finishes \"Form and Structure\". Audience applause. Introduces \"On the Success of a Middle-Aged Poet\". Audience laughter.]  | Video Description: Sharon H. Nelson smiles at the audience as camera zooms out into a medium long shot. Nelson flips through the book in their hands. Nelson addresses audience."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Sharon H. Nelson"
+        }
+      ],
+      "uuid": "cf262f33-9d1f-46ac-af53-1a26657f7e2c"
+    },
+    {
+      "start_time": 2019,
+      "end_time": 2057,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Reads \"On the Success of a Middle-Aged Poet\".] | Video Description: Camera zooms into a closeup on Sharon H. Nelson reading from book."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Sharon H. Nelson"
+        }
+      ],
+      "uuid": "8fc414ae-e6a7-445d-b39a-cf4208605ba7"
+    },
+    {
+      "start_time": 2057,
+      "end_time": 2089,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Audience laughter. Audience applause. Sharon H. Nelson introduces Unnamed Poem 2 in the style of nursery rhymes, and mentioning playing show-and-tell in school. Sharon H. Nelson begins to read Unnamed Poem 2 beginning with the line \"When we were little children and playing show-and-tell,\" breaking off to address audience. Audience members respond.] | Video Description: Sharon H. Nelson nods.  Addresses audience. Looks down to read, before glancing up and address audience."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Sharon H. Nelson"
+        }
+      ],
+      "uuid": "e93f3acd-27de-47f1-bd93-f449828b980b"
+    },
+    {
+      "start_time": 2089,
+      "end_time": 2177,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Resumes reading Unnamed Poem 2. Audience laughter throughout. Addresses audience member resuming reading poem.] | Video Description: Sharon H. Nelson glances down and reads from book. Glances up to address audience before resuming reading."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Sharon H. Nelson"
+        }
+      ],
+      "uuid": "6af797a0-9694-4f70-8ac4-3a833e1b7805"
+    },
+    {
+      "start_time": 2177,
+      "end_time": 2185,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Pauses. Audience applause.] | Video Description: Sharon H. Nelson smiles, raises a finger, and addresses audience (inaudible). "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Sharon H. Nelson"
+        }
+      ],
+      "uuid": "0c538579-b807-4192-9fb2-8647c7b726cb"
+    },
+    {
+      "start_time": 2185,
+      "end_time": 2221,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Resumes Unnamed Poem 3. Audience laughter throughout.] | Video Description: Sharon H. Nelson resumes reading poem."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Sharon H. Nelson"
+        }
+      ],
+      "uuid": "97cffefb-e822-4d8d-aed3-2197b0a63fe0"
+    },
+    {
+      "start_time": 2221,
+      "end_time": 2248,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Finishes Unnamed Poem 3. Audience laughter and applause. Introduces bill bissett.] | Video Description: Sharon H. Nelson puts down book and smiles at audience. Gestures toward and addresses offscreen audience member (bill bissett?). Camera zooms out into medium long shot as Nelson exits via stage left. Backs of audience members' heads. Nelson and bissett interact off-screen. bissett approaches microphone via stage left."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Sharon H. Nelson"
+        }
+      ],
+      "uuid": "d75f6d13-dea5-40ed-96b5-2eaf61bbb76f"
+    },
+    {
+      "start_time": 2248,
+      "end_time": 2307,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Ambient sounds (voices, movement).] | Video Description: bill bissett adjusts microphone stand height. bissett flips and sorts through pages, putting one briefly in his mouth. An unknown audience member briefly passes through camera view. bissett selects a page, places something down, and turns back toward the microphone."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "bill bissett"
+        }
+      ],
+      "uuid": "ff4cfb5d-fab5-4807-ba88-ddb3588db26b"
+    },
+    {
+      "start_time": 2307,
+      "end_time": 2711,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Performs \"evreewun needs a gud fuck n th rest is bullshit jack sd\" (from Inkorrect Thots). Audience laughter throughout.] | Video Description: Camera zooms out and in between extreme closeup and medium long shot on bill bissett performs and vocalizes into microphone. bissett holds up and references pages throughout the performance, occasionally flipping."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "bill bissett"
+        }
+      ],
+      "uuid": "c9442a52-1da1-4496-9ed2-7fe7a392e027"
+    },
+    {
+      "start_time": 2711,
+      "end_time": 2773,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Finishes \"evreewun needs a gud fuck n th rest is bullshit jack sd\". Audience applause. Thanks audience. Addresses audience, talking about quinine, TV detectives, and murder mysteries. Audience laughter throughout.] | Video Description: bill bissett goes silent and slowly lowers outstretched arms. Camera zooms out to long shot of applauding audience members in front of the stage, with one unknown audience member in an orange sweater moving through the crowd. Lee Gotham approaches the stage via stage left and interacts with bissett before returning to his seat. bissett picks up binder and flips through pages. Camera zooms in as bissett addresses audience. bissett drinks from a glass, puts it on the floor, and flips through binder."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "bill bissett"
+        }
+      ],
+      "uuid": "ecec9bc6-46a6-448e-bffb-bd6186b5a830"
+    },
+    {
+      "start_time": 2792,
+      "end_time": 2865,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Reads Unnamed Poem 4 beginning with the line \"Mr. and Mrs. Ridge of Venus Land\". Audience laughter throughout.] | Video Description: bill bissett reads from binder."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "bill bissett"
+        }
+      ],
+      "uuid": "e28b2542-47b8-4b18-8b26-8947a4dbe2b7"
+    },
+    {
+      "start_time": 2865,
+      "end_time": 2871,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Laughs. Audience laughter.] | Video Description: bill bissett laugh before looking back down at binder."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "bill bissett"
+        }
+      ],
+      "uuid": "cde901c5-db43-40fc-83b9-deba2a89a8da"
+    },
+    {
+      "start_time": 2871,
+      "end_time": 2963,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Resumes reading Unnamed Poem 4. Audience laughter throughout.] | Video Description: Camera zooms into closeup on bill bissett reading from binder."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "bill bissett"
+        }
+      ],
+      "uuid": "f04978a4-2173-48cd-b626-8cc9e5136042"
+    },
+    {
+      "start_time": 2963,
+      "end_time": 2984,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Finishes Unnamed Poem 4. Audience laughter and applause. Introduces Sharon H. Nelson.] | Video Description: bill bissett lowers and closes binder. Gestures to offscreen audience member (Sharon H. Nelson). bissett addresses audience and applauds along with them. bissett begins exiting via stage left. bissett and Nelson embrace and address one another as Nelson walks toward microphone stand."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "bill bissett"
+        }
+      ],
+      "uuid": "03f9cd77-5c48-451b-88c6-80eddb7b9b8e"
+    },
+    {
+      "start_time": 2984,
+      "end_time": 2809,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Addresses audience. Addresses bill bissett.] | Video Description: Sharon H. Nelson addresses audience and looks over to bill bissett to address him. An unknown audience member briefly obscures camera view."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Sharon H. Nelson"
+        }
+      ],
+      "uuid": "9b9d15d4-0626-48ab-9e99-f7909dca535e"
+    },
+    {
+      "start_time": 2809,
+      "end_time": 3029,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Ambient sounds (voices, movement).] | Sharon H. Nelson flips through pages, and an unknown audience member adjusts the microphone stand to Nelson's height. Nelson addresses audience member adjusting microphone stand and thanks them. Camera zooms into a closeup on Nelson."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Sharon H. Nelson"
+        }
+      ],
+      "uuid": "601260d4-c24e-4392-bc84-c44853ee29a9"
+    },
+    {
+      "start_time": 3029,
+      "end_time": 3135,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Addresses audience, discussing bissett's artwork. Audience laughter. Introduces \"Because of Everything: Dissolving Critical Distance (bill bissett's iconography, 'Dancing Magic Animals: Hearts and Rings,' acrylic on canvas, 18x24\", 1991).\"] | Video Description: Sharon H. Nelson addresses audience."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Sharon H. Nelson"
+        }
+      ],
+      "uuid": "ca94560c-e149-4c07-bf9d-c3fbba39c802"
+    },
+    {
+      "start_time": 3135,
+      "end_time": 3392,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Reads \"Because of Everything: Dissolving Critical Distance (bill bissett's iconography, 'Dancing Magic Animals: Hearts and Rings,' acrylic on canvas, 18x24\", 1991)\".] | Video Description: Sharon H. Nelson reads from pages."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Sharon H. Nelson"
+        }
+      ],
+      "uuid": "d4e1b8f7-c347-407a-a523-c98ce821950f"
+    },
+    {
+      "start_time": 3392,
+      "end_time": 3469,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Finishes \"Because of Everything: Dissolving Critical Distance (bill bissett's iconography, 'Dancing Magic Animals: Hearts and Rings,' acrylic on canvas, 18x24\", 1991)\". Audience applause. Sharon H. Nelson addresses audience. Introduces \"The Best Minds of My Generation\" (from This Flesh These Words, Ekstasis Editions, 2002), mentioning the piece is dedicated to bill bissett and to George (Predelli?), a former Catholic priest. Audience laughter. Sharon H. Nelson addresses audience.] | Video Description: Camera zooms out into long shot as Sharon H. Nelson gathers pages and nods toward audience. Camera pans across applauding audience members. Nelson addresses audience and flips through pages."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Sharon H. Nelson"
+        }
+      ],
+      "uuid": "809ca5ae-1b97-4574-b6ad-37c39c6a6c10"
+    },
+    {
+      "start_time": 3469,
+      "end_time": 3738,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Coughs. Reads \"The Best Minds of My Generation\".] | Video Description: Sharon H. Nelson coughs into fist. An audience member briefly obscures view of stage. Nelson reads from pages."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Sharon H. Nelson"
+        }
+      ],
+      "uuid": "69f00b12-e34f-4aca-b0cd-223504f78129"
+    },
+    {
+      "start_time": 3738,
+      "end_time": 3770,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Thanks audience. Audience applause.] | Video Description: Sharon H. Nelson addresses audience. Sharon H. Nelson picks pages up from floor and exits stage via stage left. Camera pans across applauding audience members. Sharon H. Nelson sits in audience as bill bissett returns to the microphone stand on stage. bill bissett adjusts microphone stand height."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Sharon H. Nelson"
+        }
+      ],
+      "uuid": "c0354ee5-f4a6-425a-acb6-92313da74b75"
+    },
+    {
+      "start_time": 3770,
+      "end_time": 3784,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Addresses audience. Audience applause.] | Video Description: bill bissett addresses audience. bill bissett raises glass to offscreen audience member (Sharon H. Nelson?) and sips from it."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "bill bissett"
+        }
+      ],
+      "uuid": "986a49ad-532a-4dd0-a19d-9364442a4c40"
+    },
+    {
+      "start_time": 3784,
+      "end_time": 3804,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Ambient sounds (voices, movement).] | Video Description: Camera zooms out into medium long shot as bill bissett adjusts glasses and flips through pages. Lee Gotham passes through camera view, glancing right into the lens."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "bill bissett"
+        }
+      ],
+      "uuid": "77866d62-1a90-42bc-9a45-869b072d4887"
+    },
+    {
+      "start_time": 3804,
+      "end_time": 4091,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Reads \"why dew we feer change feer uv th unknown\" (from Th Influenza uv Logik, Talonbooks, 1995).] | Video Description: bill bissett reads from binder. Camera zooms in and out between closeup on bissett and long shot of bissett on stage, panning across the audience members listening to the reading and smoking."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "bill bissett"
+        }
+      ],
+      "uuid": "b5ac998d-87f1-4b00-ba79-bb40b8aa9d48"
+    },
+    {
+      "start_time": 4091,
+      "end_time": 4103,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Finishes \"why dew we feer change feer uv th unknown.\" Audience applause. Thanks audience.] | Video Description: bill bissett briefly closes binder before opening it again. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "bill bissett"
+        }
+      ],
+      "uuid": "7774fd02-c83d-4cce-b2c8-d29f3edcd3f6"
+    },
+    {
+      "start_time": 4103,
+      "end_time": 4114,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Ambient sounds (voices).] | Video Description: Camera begins to zoom out to a long shot revealing applauding audience members. bissett turns to an unknown audience member upstage left and interacts with them. The unknown audience member holds bissett's binder as bissett searches for a page inside it. Camera pans across audience members sitting adjacent to stage left."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Audience",
+          "category": "Setting and Tech"
+        }
+      ],
+      "uuid": "85f71da7-7aa4-4774-8eac-898aad6519eb"
+    },
+    {
+      "start_time": 4114,
+      "end_time": 4294,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Performs Unnamed Poem 5 beginning with the line \"Jennifer Rawlins.\"] | Video Description: bill bissett performs and vocalizes into microphone, holding sheet of paper."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "bill bissett"
+        }
+      ],
+      "uuid": "c3a2b5f2-525e-4723-b1f4-d426f638b826"
+    },
+    {
+      "start_time": 4294,
+      "end_time": 4336,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Finishes Unnamed Poem 5. Audience applause. Thanks audience. Thanks Sharon H. Nelson. Addresses audience.] | Video Description: Camera pans over applauding audience members throughout the room. bill bissett addresses audience. Lee Gotham moves through crowd and approaches stage. bissett is given his binder by the unknown audience member holding it. Gotham and bissett hug. bissett addresses audience before exiting stage left as Gotham approaches the microphone stand."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "bill bissett"
+        }
+      ],
+      "uuid": "a3819781-e76e-4edd-8cd7-37c2d1707ab3"
+    },
+    {
+      "start_time": 4336,
+      "end_time": 4511,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Wow, I think we need-Woo! Just a little time to cool down now after that. Geez, you know, I can't, I can't say how happy I am to, you know, be a part of something that involves not only a generous helping of spectacle but, you know, a whole lotta love, and just generally rejuvenating experience. I think what I'd like to do is, like I said, take a little break. Any of the open-mikers who've hung out and are still up for it are more than welcome to have their day in the rain in a moment or two. I can't encourage people enough, as well, to come over to the corner at some point if you're going hang out for a bit. We've got loads of books, both Sharon's, bill's, and some small press offerings of various natures. You know, when I first met bill, I was doing my degree at Concordia. I went down to the stacks in what was at that time the Norris Library. Do you know there are 41 titles of bill's in that library? Several of Sharon's as well. But 41-you're not going to find a lot of them in the bookstores anymore, but bill is part of a very, very vital scene, going back a good twenty odd years. [Sharon H. Nelson interacts (\"Pushing thirty!\")] Pushing thirty! And they're all still in the stacks, you know? You go down to what's now the Webster Library, or over to the Redpath, or any other incredible institution of those varieties, you can check the stuff out because I tell you, a whole lot of innovation went into the years between then and now. Okay, so-enjoy, hang out. I should mention the coming weeks. Second in the series, Wired Words-spoken word documents prepared by Corey Frost, Colin Christie, and ga Press, that's featuring Fortner Anderson and Neil Wiernik next week, same time, same place. I'd like to send a thought out to my future performer for the week after, Ian Stephens, is not very well and I think with all the love in the air here this evening maybe we can all share a thought with Ian. And yeah, hang out, please, as long as you'd like, and we'll get right to a little impromptu reading in a moment. Thanks. [Audience applause].  | Video Description: Lee Gotham addresses audience while adjust microphone stand height. Gotham addresses audience and at one point addresses Sharon H. Nelson (off-screen) before returning his focus to the audience. Gotham begins walking off off via stage right."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Lee Gotham"
+        }
+      ],
+      "uuid": "9f6fc5e3-6d63-43e4-a5cb-7d9349c48b37"
+    },
+    {
+      "start_time": 4511,
+      "end_time": 4570,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Ambient sounds (voices, movement).] | Video Description: Camera cuts to audience members flipping through copies of bill bissett's books. Camera pans downward to a table full of glasses and a stack of books. In the foreground, an unknown audience member (face out of frame) holds a stack of pages with poems on them. Camera zooms into the stack of books that reads \"bill bissett\" and \"Talonbooks\" on the spine. Camera pans up and zooms into audience members holding bissett's book open in their hands as they read. Camera pans across tables full of audience members sitting, smoking, drinking, and chatting at tables."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Audience",
+          "category": "Setting and Tech"
+        }
+      ],
+      "uuid": "8dd3f4ab-f7e2-497c-883a-1b895cfb78ae"
+    },
+    {
+      "start_time": 4570,
+      "end_time": 4589,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Addresses audience.].| Video Description: Camera zooms into audience members sitting at table, in chairs, and at the bar, some of who turn toward the stage (off-screen) at the sound of Lee Gotham's voice."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Lee Gotham"
+        }
+      ],
+      "uuid": "f11596d4-1fde-4f50-9a95-b1a6774ec12b"
+    },
+    {
+      "start_time": 4589,
+      "end_time": 4642,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Cut to Unknown_Reader 1 reading a poem including the line \"Warms my heart, always one step below.\"] | Video Description: Sudden cut. Camera quickly zooms in from long shot to close up on Unknown_Reader1 reading from pages. Unknown_Reader1 wears a maroon sweater and curly chin-length brown hair. An audience member briefly passes through camera view."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Unknown_Reader1"
+        }
+      ],
+      "uuid": "8e29a547-6289-4113-bd66-5e2850469887"
+    },
+    {
+      "start_time": 4642,
+      "end_time": 4653,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Finishes poem. Audience applause. Introduces \"Token Golden Showpiece\".] | Video Description: Unknown_Reader1 lowers pages to flip through them. An audience member partially obstructs camera view when sitting down. Unknown_Reader1 addresses audience."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Unknown_Reader1"
+        }
+      ],
+      "uuid": "5a1ed931-ce43-4b91-a1a6-a85195e7b888"
+    },
+    {
+      "start_time": 4653,
+      "end_time": 4754,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Reads \"Token Golden Showpiece\".] | Video Description: Unknown_Reader1 reads from pages."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Unknown_Reader1"
+        }
+      ],
+      "uuid": "0a5be575-e95c-4f6d-9943-5b98b6b503bf"
+    },
+    {
+      "start_time": 4754,
+      "end_time": 4759,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Finishes \"Token Golden Showpiece\". Audience applause.] | Video Description: Unknown_Reader1 glances up and begins walking away from microphone. Unknown_Reader1 smiles at the audience applause. They exit via stage left."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Unknown_Reader1"
+        }
+      ],
+      "uuid": "c5224d51-26b5-4486-bc2d-7364a9f1b497"
+    },
+    {
+      "start_time": 4759,
+      "end_time": 4792,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Thanks audience. Addresses audience. Audience laughter. Introduces \"The Prisoner's Song\".] | Video Description: Unknown_Reader2 fishes pieces of paper out of the front pocket of their shirt. Unknown_Reader2 wears a black and grey flannel shirt over a graphic t-shirt, and a brown ponytail. Unknown_Reader2 addresses audience."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Unknown_Reader2"
+        }
+      ],
+      "uuid": "03a370de-c0a4-4a23-8e5e-15c8d7cb5570"
+    },
+    {
+      "start_time": 4792,
+      "end_time": 4990,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Reads \"The Prisoner's Song\".] | Video Description: Unknown_Reader2 reads from piece of paper."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Unknown_Reader2"
+        }
+      ],
+      "uuid": "fcc6c792-fcf9-4b7c-a42a-f3c3fe47b18d"
+    },
+    {
+      "start_time": 4990,
+      "end_time": 5002,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Finishes \"The Prisoner's Song\". Audience applause.] | Video Description: Unknown_Reader2 exits via stage right. Camera zooms out to reveal Lee Gotham, clapping and rising from his seat to go to microphone. Lee Gotham addresses audience."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Unknown_Reader2"
+        }
+      ],
+      "uuid": "2bc9d535-f0cf-4c13-bc5d-4d556b9d279e"
+    },
+    {
+      "start_time": 5002,
+      "end_time": 5056,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Addresses audience member (Scott Duncan). Introduces Scott Duncan. Audience applause. Promotes \"Pawn to Infinity\" (magazine). Introduces Scott Duncan. Audience applause.] | Video Description: Lee Gotham adjusts microphone and addresses audience member. Camera zooms out and pans to the left, toward the back of the venue. Audience members clap and walk through the back of the venue. Camera pans slowly right, toward the stage. Audience members listen and chat at their tables."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Lee Gotham"
+        }
+      ],
+      "uuid": "be0a5420-200f-465d-95f8-d50e69253286"
+    },
+    {
+      "start_time": 5056,
+      "end_time": 5069,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Addresses audience.] | Video Description: Scott Duncan approaches microphone via stage left. Duncan wears a black t-shirt with white graphic, black flatcap, and short dark hair. Duncan addresses audience."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Scott Duncan"
+        }
+      ],
+      "uuid": "0da28ad6-3174-41ad-9c42-662d82990cc6"
+    },
+    {
+      "start_time": 5069,
+      "end_time": 5246,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Begins performing piece, repeatedly spelling out \"P-O-M.\" Audience laughter. Unknown audience member interacts with Duncan. Resumes performing piece. Audience laughter throughout.] | Video Description: Camera zooms into closeup on Scott Duncan as he recites poem from memory. Scott Duncan pauses briefly and looks over toward off-screen audience member who interacts with him. Duncan resumes performing. Then Duncan lifts shirt to reveal and rub his abdomen marked with the same letters that he spells out in the poem, \"P O M\". Duncan resumes performing. Lee Gotham passes briefly through camera view. Duncan lifts shirt again, which he does throughout the performance."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Scott Duncan"
+        }
+      ],
+      "uuid": "d7f940da-2d27-43a5-a666-d490a70fef0b"
+    },
+    {
+      "start_time": 5246,
+      "end_time": 5255,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Finishes piece. Audience applause.] | Video Description: Scott Duncan smiles at audience and exits stage via stage left. Lee Gotham rises from seat and approaches microphone. Camera pans toward the left, following Scott Duncan moving to his seat and sitting down."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Scott Duncan"
+        }
+      ],
+      "uuid": "84e69fa6-f754-4678-8396-4dc6039dcc82"
+    },
+    {
+      "start_time": 5255,
+      "end_time": 5290,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Addresses audience. Addresses Scott Duncan. Scott Duncan interacts with Lee Gotham. Promotes Fluffy Pagan Echoes performance series. Introduces Phil. Audience applause.] | Video Description: Camera pans back toward stage where Lee Gotham speaks into the microphone. Gotham addresses Scott Duncan before addressing audience. Camera pans toward the left and zooms into Phil, the next open mic performer, rising from their seat."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Lee Gotham"
+        }
+      ],
+      "uuid": "270b6cd9-66f1-46e9-8c9c-8f63465e10db"
+    },
+    {
+      "start_time": 5290,
+      "end_time": 5335,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Ambient sounds (voices, movement).]  | Video Description: Phil takes guitar out of case at the back of the venue as tables of audience members chat and drink. Phil moves to the stage and sets down a sheet of paper on a music stand. Phil puts guitar strap over shoulder and adjusts microphone stand."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Phil"
+        }
+      ],
+      "uuid": "d5438581-e8d2-4d3b-91ce-38e7552a2798"
+    },
+    {
+      "start_time": 5335,
+      "end_time": 5380,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Addresses audience. Audience laughter. Unknown audience member addresses Phil, and they interact. Audience laughter.] | Video Description: Phil addresses audience. Phil wears  a white long-sleeved shirt and a shaved head. Phil interacts with an audience member (offscreen). Phil rests slightly back on a ledge on stage and looks down at the piece of paper."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Phil"
+        }
+      ],
+      "uuid": "f14c8532-2a01-4d24-900e-3822218ce2e0"
+    },
+    {
+      "start_time": 5380,
+      "end_time": 5545,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Performs composition beginning with the line \"And all the while.\" Audience laughter throughout. Bistro 4 landline rings.] | Video Description: Phil performs a composition, picking guitar strings with one hand while glancing occasionally at a piece of paper in the other hand. Passersby look into the venue through the large-paned windows."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Phil"
+        }
+      ],
+      "uuid": "1d3d97e9-64f3-40ee-a1e3-d8be76f6a8e6"
+    },
+    {
+      "start_time": 5545,
+      "end_time": 5558,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Finishes composition. Audience applause.] | Video Description: Phil stands and takes guitar strap off of shoulder. Phil leaves the stage via stage right. Camera pans to follow Phil walking toward the back of the venue to return to seat."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Phil"
+        }
+      ],
+      "uuid": "7f38dedd-9e3f-4bfe-8b34-593d686f7485"
+    },
+    {
+      "start_time": 5558,
+      "end_time": 5575,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Announces Halina Berger. Audience applause.] | Video Description: Lee Gotham calls out for Halina Berger via the microphone. Berger confirms attendance (offscreen) and Lee Gotham announces their set. Lee Gotham addresses an audience member (offscreen) who sits adjacent to stage left, before sitting. Berger enters the stage via stage right."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Lee Gotham"
+        }
+      ],
+      "uuid": "f3a2dc3f-d798-4961-8dd8-dc755064711b"
+    },
+    {
+      "start_time": 5575,
+      "end_time": 5670,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Addresses audience. Reads poem beginning with the line \"If I could be at peace with everybody.\"] | Video Description: Halina Berger addresses audience. Berger wears a red blouse and short brown hair. An audience member briefly obstructs camera view. Berger reads from a piece of paper in hand."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Halina Berger"
+        }
+      ],
+      "uuid": "315d40f9-d65d-465f-bae8-249f341c6f1e"
+    },
+    {
+      "start_time": 5670,
+      "end_time": 5679,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Finishes poem. Audience applause.] | Video Description: Halina Berger looks up from piece of paper and nods at audience. Berger exits stage via stage right. Lee Gotham, clapping, rises from seat and approaches microphone."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Halina Berger"
+        }
+      ],
+      "uuid": "0a4fe8fb-81ef-4344-a0b2-d472bb18190f"
+    },
+    {
+      "start_time": 5679,
+      "end_time": 5699,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Thanks Halina Berger. Addresses Justin McGrail. Announces Justin McGrail. Audience applause.] | Video Description: Lee Gotham addresses Halina Berger. Lee Gotham steps toward stage right, looking for someone toward the back of the venue. Gotham addresses Justin McGrail and then addresses audience. Gotham returns to seat. McGrail (short brown hair, button-down shirt with rolled-up sleeves, suspenders, grey trousers, ear piercing) enters stage via stage right. McGrail cups hands over mouth before turning toward microphone."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Lee Gotham"
+        }
+      ],
+      "uuid": "c5b8b167-30be-4a8e-9926-089e37803dc7"
+    },
+    {
+      "start_time": 5699,
+      "end_time": 5804,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Performs poem beginning with the line \"The trick is, was, used to be seem to be seen as structurally strict\".] | Video Description: Justin McGrail performs poem from memory, with gestures to accentuate language. McGrail wears a white button-down shirt with sleeves rolled-up to elbows, green pants with suspenders, and short dark brown hair."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Justin McGrail"
+        }
+      ],
+      "uuid": "7f56dd38-bf32-48f1-98c3-2c2dc5318fa0"
+    },
+    {
+      "start_time": 5804,
+      "end_time": 5817,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Finishes poem. Audience applause.] | Video Description: Justin McGrail walks off via stage right. Lee Gotham enters frame, clapping, and stands in front of microphone."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Justin McGrail"
+        }
+      ],
+      "uuid": "2c9203e4-5ad0-4d9c-92a5-a6c85d460402"
+    },
+    {
+      "start_time": 5817,
+      "end_time": 5823,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Addresses audience. Promotes Fluffy Pagan Echoes.] | Video Description: Lee Gotham addresses audience."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Lee Gotham"
+        }
+      ],
+      "uuid": "b36cf33c-e15d-4955-9071-9eb72ec79574"
+    },
+    {
+      "start_time": 5823,
+      "end_time": 5826,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Video Description: Sudden cut. The tilted camera captures the yellow curtains lining the windows behind the stage."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Bistro 4 stage",
+          "category": "Setting and Tech"
+        }
+      ],
+      "uuid": "a48a98d9-4983-49c1-a889-13a032eee88b"
+    },
+    {
+      "start_time": 5826,
+      "end_time": 5944,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Performs poem beginning with the line \"X-Factor (?) and sub-atomic fumes.\"] | Video Description: Camera zooms out and resets its angle to capture the stage. Camera zooms in from long shot to closeup on Unknown_Reader3 reading from a piece of paper. Unknown_Reader3 wears a white long-sleeved shirt with sleeves rolled-up to elbows and short brown hair."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Unknown_Reader3"
+        }
+      ],
+      "uuid": "1736981a-91a4-4792-a583-6015f87babf0"
+    },
+    {
+      "start_time": 5944,
+      "end_time": 5952,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Finishes poem. Audience applause.] | Video Description: Unknown_Reader3 lowers piece of paper and exits via stage right. Lee Gotham enters frame applauding and adjusts microphone."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Unknown_Reader3"
+        }
+      ],
+      "uuid": "6f285c8e-8923-40ab-8e4d-e3cbac2f73a4"
+    },
+    {
+      "start_time": 5952,
+      "end_time": 5963,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Addresses audience. Announces Paul. Audience applause.] | Video Description: Lee Gotham addresses audience. Camera tilts upward toward windows."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Lee Gotham"
+        }
+      ],
+      "uuid": "ff1bf62b-0f15-4b3d-aa70-76b76ae977bf"
+    },
+    {
+      "start_time": 5963,
+      "end_time": 5984,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Addresses audience. Audience laughter. Unknown audience member interacts with Paul. Audience laughter. Paul thanks unknown audience member.] | Video Description: Camera resets angle back toward stage. Paul addresses audience. Paul wears a grey sweater, fleece vest, buzzed dark hair, and a goatee. Paul laughs at unknown audience member's (offscreen) comment. Paul looks down at pages and then addresses unknown audience member."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Paul"
+        }
+      ],
+      "uuid": "40caff2a-785e-4595-8d32-60ac884b89d2"
+    },
+    {
+      "start_time": 5984,
+      "end_time": 6095,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Reads \"Tell Us\". Briefly interjects to announce title, before resuming reading.] | Video Description: Paul reads poem pieces of paper. Paul briefly addresses audience before resuming reading, occasionally turning pages."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Paul"
+        }
+      ],
+      "uuid": "4ee4fa9c-c260-4edd-8183-e711734460c3"
+    },
+    {
+      "start_time": 6095,
+      "end_time": 6112,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Finishes \"Tell Us\". Addresses audience. Audience laughter and applause. Introduces \"Egg\". Audience laughter.] | Video Description: Paul addresses audience and smiles."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Paul"
+        }
+      ],
+      "uuid": "79b69f41-584c-449c-b0b1-a184aa1d8981"
+    },
+    {
+      "start_time": 6112,
+      "end_time": 6220,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Reads \"Egg\".] | Video Description: Paul reads poem from pages, occasionally flipping pages."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Paul"
+        }
+      ],
+      "uuid": "982705a9-3a35-4784-86e1-18c8f6d50f15"
+    },
+    {
+      "start_time": 6220,
+      "end_time": 6239,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Ambient sounds (movement, voices).] | Video Description: Paul trails off and blinks at pages. Paul rocks back and forth, trying to hold onto microphone stand, and stumbles out of frame. Camera pans slightly to the right. Lee Gotham's shoulder is seen, as well as the slight view his head turning to look toward the stage. Gotham rushes toward stage. Camera zooms out, revealing Gotham and multiple unknown audience members assisting Paul stand up. Paul blinks and touches chest."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Paul"
+        }
+      ],
+      "uuid": "0fd89b23-5edd-4222-8cc4-0c28e30f1bab"
+    },
+    {
+      "start_time": 6239,
+      "end_time": 6268,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Addresses audience. Audience laughter and applause. Addresses audience. Audience laughter and applause.] | Video Description: Paul addresses audience. Unknown audience members assisting tend to Paul as Paul picks up spilled pages from the floor. Paul is handed a glass and they drink. Paul speaks into the microphone and holds up pages. Gotham pats Paul on the back as assisting audience members return to their seats. Gotham claps as he returns to his seat. Paul is handed additional pages."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Paul"
+        }
+      ],
+      "uuid": "a23ecbd2-575d-4385-927c-0094bc9c43d6"
+    },
+    {
+      "start_time": 6268,
+      "end_time": 6300,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Resumes reading \"Egg\".] | Video Description: Paul reads from pages."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Paul"
+        }
+      ],
+      "uuid": "e8c59dfe-d4e7-4d58-ab89-7f5362c8405a"
+    },
+    {
+      "start_time": 6300,
+      "end_time": 6313,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Finishes \"Egg\". Audience applause.] | Video Description: Paul exits via stage left and returns to their seat. Lee Gotham takes to the microphone."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Paul"
+        }
+      ],
+      "uuid": "ce844243-30da-46a9-a601-262dbb7dce7b"
+    },
+    {
+      "start_time": 6313,
+      "end_time": 6351,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Addresses Paul. Audience laughter. Thanks Paul. Calls next performer.] | Video Description: Lee Gotham addresses Paul. Gotham calls out for and addresses next performer. The next performer moves through tables toward the stage. Gotham pats them on the back as they pass each other. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Lee Gotham"
+        }
+      ],
+      "uuid": "c5daaaa1-81fe-47d9-9b47-9b26903dc8fd"
+    },
+    {
+      "start_time": 6351,
+      "end_time": 6393,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Addresses audience. Audience laughter. Promotes gig at Bar L'Exterieur. Introduces themself as Bro. Introduces \"The Way of Zen\" (?).] | Video Description: Bro addresses audience and flips through pages in hand. Bro wears a black t-shirt, glasses, dark shoulder-length hair with male pattern baldness, and a dark thick beard beginning to go white.  "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Bro"
+        }
+      ],
+      "uuid": "fc17fd25-5957-41d4-8281-4c04796ddf12"
+    },
+    {
+      "start_time": 6393,
+      "end_time": 6458,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Reads \"The Way of Zen\" (?). Audience laughter.] | Video Description: Bro reads poem from pages."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Bro"
+        }
+      ],
+      "uuid": "f8f50c97-b815-41a0-a73b-de42db60bc67"
+    },
+    {
+      "start_time": 6458,
+      "end_time": 6475,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Finishes \"The Way of Zen\" (?). Audience laughter and applause. Addresses audience. Audience laughter. Introduces Unnamed Poem 1 (\"The story of my life can be summed up very briefly\").] | Video Description: Bro sheafs through pages and tilts microphone. Armstrong addresses audience."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Bro"
+        }
+      ],
+      "uuid": "5cc720fc-2b03-465f-877c-a9001b53a5e0"
+    },
+    {
+      "start_time": 6475,
+      "end_time": 6543,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Reads poem beginning with the line \"The story of my life can be summed up very briefly.\"] | Video Description: Bro reads from pages."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Bro"
+        }
+      ],
+      "uuid": "36161ff2-57ac-4f8a-ab11-86e6ba54a4c1"
+    },
+    {
+      "start_time": 6543,
+      "end_time": 6577,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Finishes poem. Audience applause. Addresses audience. Introduces another unnamed poet's work, \"For Henry\". ] | Video Description: Bro lowers pages to sheaf through them, placing toothpick (?) in their mouth. Armstrong addresses audience."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Bro"
+        }
+      ],
+      "uuid": "04b3034d-5bab-441c-8dda-7ca6ca75074a"
+    },
+    {
+      "start_time": 6577,
+      "end_time": 6709,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Reads another unnamed poet's work, \"For Henry\".] | Video Description: Bro reads from pages."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Bro"
+        }
+      ],
+      "uuid": "975b2924-1fc2-4406-89b9-7440dba4f2b1"
+    },
+    {
+      "start_time": 6709,
+      "end_time": 6715,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Finishes \"For Henry\". Audience applause.] | Video Description: Bro lowers pages and exits via stage left. Lee Gotham rises from seat and approaches microphone stand."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Bro"
+        }
+      ],
+      "uuid": "321c700b-cd10-424e-8aaa-a5fe59d12545"
+    },
+    {
+      "start_time": 6715,
+      "end_time": 6783,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Thanks, Bro. Addresses audience. Announces end of event. Promotes following week's event (Fortner Anderson and Neil Wiernik, and Wired on Word cassette launch) and the upcoming Pawn's magazine launch. Audience applause.] | Video Description: Lee Gotham addresses audience. Camera pans toward the left across venue, with audience members applauding, rising from their seats, drinking, and putting on coats."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Lee Gotham"
+        }
+      ],
+      "uuid": "32c2a211-6e68-4bf2-9bf9-7370dc8dc67a"
+    },
+    {
+      "start_time": 6783,
+      "end_time": 6784,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[End of recording.]"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "END",
+          "category": "Setting and Tech"
+        }
+      ],
+      "uuid": "dfccc3c5-05ef-456d-814b-79389c6b8abb"
+    }
+  ],
   "event_id": "66e44855-46cd-4e99-9a18-a4dcc9571336",
   "set": "bissett nelson",
   "source_id": "a2d93ab3-0e78-49f2-8f27-42d6e4f555c5"
