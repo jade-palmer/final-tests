@@ -1,5 +1,660 @@
 {
-  "annotations": [],
+  "annotations": [
+    {
+      "start_time": 0,
+      "end_time": 1,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Video Description: Color video, medium shot of the stage at Bistro 4 (Quatre) (4040 St. Laurent, Montreal, QC, H2W 1Y8, Canada). Diagonal perspective of the stage with a mic stand, capturing a corner of the cafe as well as some of the audience members. The stage, slightly below street level, is set against a full-wall window looking out onto the St. Laurent Blvd. traffic---with both pedestrians and vehicles often passing by. The windows from across the street are sometimes visible, including an outdoor sign with the word \"JETHRO.\"  On the windows of Bistro 4, the word \"said\" (from \"Enough Said\") becomes visible when the camera zooms out, as well as decals with words from the menu, such as \"DEJEUNER,\" \"CAPPUCCINO,\" and \"TISANE.\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Bistro 4 stage",
+          "category": "Setting and Tech"
+        }
+      ],
+      "uuid": "14b2edd5-8962-4f1d-b250-24013cc45fc5"
+    },
+    {
+      "start_time": 1,
+      "end_time": 118,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Ambient sounds. Mic feedback noise, with Lee Gotham humming to the same pitch.] Good evening one and all and thanks once again for coming out to another evening of Enough Said. Just a short (?) of things underway this evening, a couple of items of interest, in the very near future. I have the grand pleasure of presenting this (one?): Adeena Karasick, this next Monday. Adeena is a performance poet, language-centred writing, tender concerns front and centre, and is a wonderful act; she has toured all over the world, read with everyone from Ginsberg and Creeley to Nichols (?). It's a wonderful pleasure to present her. The week after, this is another pet project of mine, that I've only plugged very discreetly up until now, but it's called Pawn, and it's a cultural magazine that it's growing out of a pretty eclectic literary bag, that we managed to get together as a bunch of undergrad students at Concordia two or three years back. Still literature as an undeniable emphasis, and a real strong lineup, and I'm not gonna talk anything about any of the people (involved?). We will be launching this magazine, and some of those people involved will be here, not next Monday but the Monday after. So, that's a couple of items in the near future. In the nearest future, I have the equal pleasure in presenting this evening two very interesting acts: the first of them the Phineas Flower Trio. | Video Description: Medium long shot of the stage then zoom into different degrees of closeup as the camera adjusts frame and focus. Lee Gotham walks to the mic. Gotham wears a long button-down shirt over a t-shirt and a taqiyah-style skullcap. Gotham signals to someone out of the frame (presumably the sound technician), makes announcements, and introduces the performers of the event."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Lee Gotham"
+        }
+      ],
+      "uuid": "498d6665-794a-4f22-8725-1e02a3017d6d"
+    },
+    {
+      "start_time": 118,
+      "end_time": 120,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Voice interrupts Gotham from out of the frame] Just get on with it, man! | Video Description: Zoom out from Lee Gotham and pan left to the Phineas Flower Trio."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Phineas Flower Trio"
+        }
+      ],
+      "uuid": "a3fb28a3-d6c5-423a-b264-d759b6e55251"
+    },
+    {
+      "start_time": 120,
+      "end_time": 159,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I believe want you to keep your distance during their act, they want lots of space, so just stay where you are [laughter]. A little later in the evening we will have Steve Godin. Steve Godin is going to do something that will set everyone's teeth on edge [laughter]. It's not true; Steve is a wonderfully amenable type and he's gonna be here with us before very long. And in the meantime please welcome Phineas Flower. Stay where you are. [Applause].  | Medium long shot panning between Lee Gotham, standing, and the Phineas Flower Trio, sitting, one of them smoking. Gotham finishes his remarks and introduces the Phineas Flower Trio."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Lee Gotham"
+        }
+      ],
+      "uuid": "4b681577-3746-4158-9073-af331190a40e"
+    },
+    {
+      "start_time": 159,
+      "end_time": 181,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Drummer interrupts the applause] No clapping, we are serious jazz musicians. [Laughter] | Video Description: Medium long shot of Lee Gotham leaving the stage and the Phineas Flower Trio walking to their instruments and places. Before sitting by the drums, the drummer goes to the mic. The drummer wears a long green coat over a black turtleneck and buzz-cut hair. The camera zooms into a closeup of the mic, and the guitar player gets his instrument caught on the mic cable, almost knocking the stand down."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Phineas Flower Trio"
+        }
+      ],
+      "uuid": "2f5e2513-e1eb-43de-8073-4889741e16d7"
+    },
+    {
+      "start_time": 181,
+      "end_time": 255,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[The band spends an unnecessarily long time tuning and making adjustments, seemingly to irritate the audience.] | Video Description: Zoom out to a medium long shot of the stage, panning left and right, showing the Phineas Flower Trio: the drummer on right of the screen, further to the back behind the mic stand; the guitar player in the middle putting his lit cigar on his guitar head among the tuning keys; and the bass player on the left smoking. The guitar player wears a grey Henley shirt with sleeves rolled-up to the elbow, short hair, a thin moustache, and a goatee. The bass player wears a black and red coat over a patterned button-down shirt, long hair, a Van-Dyke beard, and sunglasses."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Phineas Flower Trio"
+        }
+      ],
+      "uuid": "9fae9f31-bf18-4dba-800a-55a50a42b2f1"
+    },
+    {
+      "start_time": 255,
+      "end_time": 332,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Unknown_Audience_Member] Let's go, eh?! [Two band members, aggressively] Back off! What the fuck was that? Why don't you shut up?! | Video Description: Medium long shot of the stage, panning left and right, showing the Phineas Flower Trio."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Phineas Flower Trio"
+        },
+        {
+          "tag": "Unknown_Audience_Member",
+          "category": "Performers and Speakers"
+        }
+      ],
+      "uuid": "167ce824-061d-4f28-acec-694afc5849a3"
+    },
+    {
+      "start_time": 332,
+      "end_time": 460,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[A vocalist joins the Phineas Flower Trio to plays their first song, a spoken-word piece against a jazzy groove. One one of the first lines is \"(Dereliction?) and (pain?), corrupted by ambient (rain?).\" At the end of the first piece, the vocalist says, \"Thank you very much, we are the Phineas Flower Trio.\"] | Video Description: Medium long shot of vocalist leaving the audience to join the Phineas Flower Trio, sitting on a bar stool, higher than the other band members. The vocalist wears short curly hair, sunglasses, and a grey sweater over a flowery dress. He is smoking and carrying a beverage. The camera zooms in and out, settling on a medium shot of the vocalist, with the drummer partially visible behind, the latter playing while smoking. The vocalist takes a sip, then puts both glass and cigarette down to perform."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Phineas Flower Trio"
+        }
+      ],
+      "uuid": "bb273a37-b957-48d9-840b-903dbf8c340f"
+    },
+    {
+      "start_time": 460,
+      "end_time": 660,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Performs a second spoken-word-jazz fusion piece, beginning with the line \"(Motorway?) superhighway, a massive feat of evolution in engineering.\"] | Video Description: Medium closeup alternating with a medium long shot of the Phineas Flower Trio performing."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Phineas Flower Trio"
+        }
+      ],
+      "uuid": "f720f229-4b9e-449c-97e3-082a04a9f359"
+    },
+    {
+      "start_time": 660,
+      "end_time": 741,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Performs a third spoken-word-jazz piece. One of the first lines is \"Richard Carlyle (?) among the wreckage.\" Applause.] | Video Description: Medium closeup panning among the band members of Phineas Flower Trio, who perform another piece. At the end of the piece, medium long shot of the guitarist and vocalist, with the drummer partially visible; the vocalist smokes between songs."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Phineas Flower Trio"
+        }
+      ],
+      "uuid": "669aa55a-2eee-4736-b0c1-5cc9348b2a1d"
+    },
+    {
+      "start_time": 741,
+      "end_time": 750,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[The vocalist, shouting] Hey! [Unknown_Audience_Member, half-mockingly] No clapping. [The vocalist] We're serious fucking jazz musicians up here. | Video Description: Medium long shot of the guitarist and vocalist, with the drummer partially visible."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Phineas Flower Trio"
+        },
+        {
+          "tag": "Unknown_Audience_Member",
+          "category": "Performers and Speakers"
+        }
+      ],
+      "uuid": "7e055ed7-35eb-4ca0-a3be-18c6562dcfc6"
+    },
+    {
+      "start_time": 750,
+      "end_time": 756,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Unknown_Audience_Member] I didn't fucking clap. [The vocalist] Good. What's next, (Zanny?)?] | Video Description: Medium long shot of the guitarist and vocalist, with the drummer partially visible; then pan left to the bass player."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Phineas Flower Trio"
+        },
+        {
+          "tag": "Unknown_Audience_Member",
+          "category": "Performers and Speakers"
+        }
+      ],
+      "uuid": "68e2c9f2-4a9a-4c11-972c-fe1666d591c7"
+    },
+    {
+      "start_time": 756,
+      "end_time": 945,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[The bass player states the title of the next piece, which is incomprehensible, then the band performs it. One of the first lines is \"As the last drops of (glucose?) (?) (Cola?) go down his throat.\"] | Video Description: Medium long shot of the Phineas Flower Trio, panning left and right among the band members. Zoom into a closeup of the vocalist, who drinks from a glass before the next song; then zoom out to a medium shot as the band performs, ending in a medium closeup."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Phineas Flower Trio"
+        }
+      ],
+      "uuid": "1188ccb2-e7a9-4056-9eef-6cd9fde90bb5"
+    },
+    {
+      "start_time": 945,
+      "end_time": 970,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[The Phineas Flower Trio performs a piece beginning, \"Somewhere, somewhere higher than the sky.\" At the end of the piece, the vocalist repeats what he said at the end of the first song, \"Thank you very much, we are the Phineas Flower Trio.\"] | Video Description: Medium closeup of the vocalist, as the band performs. At the end of the piece, the vocalist drinks from a glass."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Phineas Flower Trio"
+        }
+      ],
+      "uuid": "069fbb42-c5a7-481c-b5eb-535a6ff2f1a2"
+    },
+    {
+      "start_time": 970,
+      "end_time": 1001,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[The vocalist, after thanking the audience] That sucked. [Unknown_Audience_Member] What kind of noise is this? [The vocalist] Bad noise! [The drummer] Wait, man, I don't like this dialogue going on. Can't anyone straighten this young lady out? [Vocalist] Let's play the next song. [Guitar player] Ok, who's the fucking pinhead who said that? [Vocalist] Yo (Zanny?), what's the next song? [As the bass player starts to answer, the guitarist, aggressively] Pinheads, raise your fucking head. [Drummer] Get 'em, boy! [Vocalist] Alright, let's play the song. [Guitarist] You're lucky I'm in a good mood. | Video Description: Medium shot, panning left and right, of the band members interacting with each other and with the audience."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Phineas Flower Trio"
+        },
+        {
+          "tag": "Unknown_Audience_Member",
+          "category": "Performers and Speakers"
+        }
+      ],
+      "uuid": "6167d14a-1653-4e03-b5af-372f792eb608"
+    },
+    {
+      "start_time": 1001,
+      "end_time": 1204,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[The Phineas Flower Trio performs a piece, opening with a looping drum-bass riff. The vocalist burps into the mic before singing the first lines: \"(You're usually?) flapping its wings, a bee flies across the field (and fell?) searching frantically for food, gasping for breath.\" Mid-performance, the drummer screams in the background. At the end of the piece, with the instrumentalists still playing, he vocalist repeats, \"Thank you very much, we are the Phineas Flower Trio.\"] | Video Description: Medium shot of the band, with the vocalist unbuttoning and taking off his sweater, so now his flower dress is entirely visible. Then zoom into a closeup of the vocalist as he starts singing while holding a cigarette, sometimes smoking between lines. Mid-performance, the camera zooms out and alternates between a medium shot and medium long shot."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Phineas Flower Trio"
+        }
+      ],
+      "uuid": "f369d70d-4824-4f8f-ab55-7f5e1b209be2"
+    },
+    {
+      "start_time": 1204,
+      "end_time": 1242,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[The vocalist, after thanking the audience] Next. [Unknown_Audience_Member] Don't say thank you, we're a serious fucking audience. [Vocalist] Alright! [Guitar player] You're a really fucking funny guy, man. [Vocalist] Let's go, next song! [Scattered laughter and incomprehensible heckling between band and audience] | Video Description: Medium shot, panning left and right, of the band members interacting with each other and with the audience."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Phineas Flower Trio"
+        },
+        {
+          "tag": "Unknown_Audience_Member",
+          "category": "Performers and Speakers"
+        }
+      ],
+      "uuid": "91de3838-bd5c-4b28-8e76-0b30d27a23f8"
+    },
+    {
+      "start_time": 1242,
+      "end_time": 1253,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Vocalist] In case you didn't notice, this is an artistic (event?). [Unknown_Audience_Member] If you didn't (pack your lip?) it would be better. [Vocalist] Go for it. [Guitarist] Better than what? | Video Description: Closeup of the vocalist interacting with the band members and the audience."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Phineas Flower Trio"
+        },
+        {
+          "tag": "Unknown_Audience_Member",
+          "category": "Performers and Speakers"
+        }
+      ],
+      "uuid": "5eb52336-9ea7-4489-9480-735645789763"
+    },
+    {
+      "start_time": 1253,
+      "end_time": 1351,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The Phineas Flower Trio performs a piece, opening with a looping guitar riff, then a sudden pause, when the vocalist says \"Hey.\"] | Video Description: Zoom into an extreme closeup of the vocalist, smoking, then performing."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Phineas Flower Trio"
+        }
+      ],
+      "uuid": "3b63853f-e923-47f7-85c8-6f20462c1603"
+    },
+    {
+      "start_time": 1351,
+      "end_time": 1374,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[The band suddenly stops playing, and the drummer says to the guitarist, both out of the frame] Hey man, it's you. [Guitarist] No, it's you. [Drummer] You fucked up twice there. [Vocalist, trying to intervene] Let's take it, let's just take it...[Guitarist] (?) you have, like, no sense of time (?). [Laughter, while the argument continues, until the vocalist commands] Play! | Video Description: Closeup of the vocalist, drinking from a glass and trying to resume the performance while the band argues."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Phineas Flower Trio"
+        }
+      ],
+      "uuid": "644992cf-dd65-4157-997f-f210ae4c1ffc"
+    },
+    {
+      "start_time": 1374,
+      "end_time": 1424,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[The band resumes playing the same piece]. | Video Description: Closeup of the vocalist, often sipping from a glass, while the band performs. Towards the end of the piece, the camera zooms out to a medium long shot, so the drummer and guitarist also become visible."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Phineas Flower Trio"
+        }
+      ],
+      "uuid": "ba81cd10-8dc9-4d4f-88cd-735e255a49ea"
+    },
+    {
+      "start_time": 1424,
+      "end_time": 1635,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Bassist states the name of the next song] Next song is \"Disgusting family.\" [Vocalist announces] Alright, this is our last piece and then you will be rid of us once and for all. You can clap for that if you want! [Laughter] [Drummer] Disgusting family? [Vocalist] Wow, I don't know, if Zanny's standing up for this one, gotta mean something. [Laughter, shouts] [Vocalist] Zanny's a studio musician, does a lot of uppers and stuff. | Video Description: Medium long shot, panning left and right between the bassist and vocalist, then zoom unto an extreme closeup of the vocalist. The bassist stands up and the camera pans left to show him. As the band starts performing, the camera pans back right and zooms into a medium closeup of the vocalist."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Phineas Flower Trio"
+        }
+      ],
+      "uuid": "af6f6b06-aced-4709-9b20-1e7d59c67358"
+    },
+    {
+      "start_time": 1635,
+      "end_time": 1676,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Vocalist interrupting the song to address the guitarist] Yo Kevin? Kevin? What the fuck is this? It's just such fucking shitty noise (which you just made with that?) guitar, man. How much talent does it take to stick a fucking patch cord into a guitar anyway? [Many talk at once and the argument continues until the Vocalist suggests] Or just keep doing what you're doing. Alright, here we go, it's your noise! | Video Description: Closeup of the vocalist interrupting the piece to complain about the guitarist. The camera pans to the drummer and the guitarist then back to the vocalist."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Phineas Flower Trio"
+        }
+      ],
+      "uuid": "d46ef3be-bffd-4bce-b596-ff7997b84e95"
+    },
+    {
+      "start_time": 1676,
+      "end_time": 1762,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[The band resumes playing the same piece, and the vocalists speaks the last lines while the band is still playing]. Thanks for nothing. We're the Phineas Flower Bar Mitzvah Quartet. We play weddings, funerals, bar mitzvahs, birthday parties. T-shirts and CDs are available at the door. [Applause] | Video Description: Closeup and extreme closeup of the vocalist, while the band performs. Towards the end of the piece, the camera zooms out to a medium long shot and pans left and right, so the other band members become visible as they stand up and leave the stage."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Phineas Flower Trio"
+        }
+      ],
+      "uuid": "cd29ad04-c06a-456e-a420-6454fade06e7"
+    },
+    {
+      "start_time": 1762,
+      "end_time": 1792,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Thanks for the (angst?), guys. The Phineas Flower Trio, thanks, in general. Ok, what we're gonna do with this break between acts is that the first three of open-mic participants, if they're ready to roll, and we'll do that in a half a second. [Audio becomes incomprehensible then skips]. | Video Description: Medium long shot as Lee Gotham enters the stage as the Phineas Flower Trio leaves. Gotham holds a beverage and announces the next portion of the evening program."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Lee Gotham"
+        }
+      ],
+      "uuid": "956e4eea-4e5b-4500-af70-7e16ef51af3c"
+    },
+    {
+      "start_time": 1792,
+      "end_time": 1802,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Recording resumes mid-sentence]...this evening, Steve Godin. Texts also on the back by Steve Godin, and Ran is gonna read us number one of the series of three. | Video Description: Medium closeup of Lee Gotham making remarks and announcing the next performer, while holding a glass."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Lee Gotham"
+        }
+      ],
+      "uuid": "ec82f964-58e5-4e53-8390-19986d9fed95"
+    },
+    {
+      "start_time": 1802,
+      "end_time": 1869,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Mockingly, parodying the Phineas Flower Trio] Hello? Hello? Hi! This is serious poetry. You don't clap. [Reads text written by Steve Godin, beginning with the sentence, \"The human mind and soul can be in conflict with the ideal architecture that (reveals?) the True Self.\"] | Video Description: | Medium closeup of Ran Elfassy reading from a flyer. Elfassy wears a long-sleeve green Henley shirt over a grey turtle neck and buzz-cut hair."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Ran Elfassy"
+        }
+      ],
+      "uuid": "e98112ab-15cb-448c-8585-5485fb19ab82"
+    },
+    {
+      "start_time": 1869,
+      "end_time": 2025,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Announces that they will read two pieces. Asks the audience to clap to the rhythm of cha-cha during the performance of the first piece. Someone in the audience asks \"How does it go?\" and Ran Elfassy demonstrates. Ran Elfassy performs a piece titled \"Indulge me.\" The audience keeps the rhythm all the way through.] | Video Description: | Medium closeup then closeup of Ran Elfassy performing."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Ran Elfassy"
+        }
+      ],
+      "uuid": "9ae7052c-ce5c-4220-a3cc-9bffd9c876bb"
+    },
+    {
+      "start_time": 2025,
+      "end_time": 2313,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Reads a story beginning with the phrases, \"By window and the yellow curtain, by the brass hooks.\" Ran Elfassy thanks the audience amid applause.] | Video Description: | Alternating extreme closeup and medium closeup of Ran Elfassy. Elfassy takes the mic from the stand to perform a second piece, then puts it back on the stand amid applause."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Ran Elfassy"
+        }
+      ],
+      "uuid": "d752a2c0-edce-404d-a411-c43509b1d749"
+    },
+    {
+      "start_time": 2313,
+      "end_time": 2314,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[End of recording.]"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "END",
+          "category": "Setting and Tech"
+        }
+      ],
+      "uuid": "697a3758-514b-49a6-8d85-f7a4fa51a159"
+    }
+  ],
   "event_id": "66e44855-46cd-4e99-9a18-a4dcc9571336",
   "set": "backo gpm",
   "source_id": "a2d93ab3-0e78-49f2-8f27-42d6e4f555c5"
