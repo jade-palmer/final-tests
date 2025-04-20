@@ -4507,6 +4507,783 @@
         }
       ],
       "uuid": "611ffe6c-f367-4441-8f76-05721a9462b1"
+    },
+    {
+      "start_time": 0,
+      "end_time": 3,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Video Description: Colour video, medium shot of the stage at Bistro 4 (Quatre) (4040 St. Laurent, Montreal, QC, H2W 1Y8, Canada). A single mic stand. The stage, slightly below street level, is set against a full-wall window looking out onto the St. Laurent Blvd. traffic---with both pedestrians and vehicles regularly passing by. The windows from across the street are also visible, including an outdoor \"JETHRO\" sign. People frequently pass in front of the camera. On the cafe windows, some decals are partially visible, with words from the menu such as \"DEJEUNER,\" \"CAPPUCCINO,\" and \"TISANE.\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Bistro 4 stage",
+          "category": "Setting and Tech"
+        }
+      ],
+      "uuid": "15da8aac-6824-47fe-8039-e47a96bacf21"
+    },
+    {
+      "start_time": 3,
+      "end_time": 63,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Ok. I have to apologize, I don't think I've ever had so much trouble with the cassette deck (?). Wasn't much on the way of a half-time entertainment. But, with a second-act like I have this evening for us, I'll cut the apology short because I know the wait is gonna be worth the while. And, I'd just like to introduce anyone in the room unfamiliar with Dee Smith to herself and her work, a wonderful emerging of dub poetry and the versifying of her own make (sic). Please join me in welcoming Dee Smith to the microphone. [Applause.] | Video Description: Medium shot of Lee Gotham walking on stage and adjusting the mic. Gotham wears an open sweater with abstract details over a v-neck t-shirt, full beard, and long hair tied in a bun. Different degrees of zoom as Gotham introduces Dee Smith as the second act of the evening. Note the event was copied to the VHS tape not in chronological order, and the digitized file preserves such sequence: act 2 (event headliner); act 1 (opening acts); act 3 (open-mic)."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Lee Gotham"
+        }
+      ],
+      "uuid": "fed6a5c1-0659-47b3-8342-654c988b56b8"
+    },
+    {
+      "start_time": 63,
+      "end_time": 135,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Thanks the audience for waiting. Says she'll read a couple of pieces, some of them in \"Jamaican Dialect\" (Jamaican Patois), others in standard English. Asks the audience if they'd like her to start with something nice and sweet or some real radical stuff. Applause.] | Video Description: Medium closeup as Dee Smith enters stage and Lee Gotham adjusts the mic. Smith wears a green short-sleeved shirt over a black long-sleeved turtleneck, black Breton cap, pendant necklace, flower earrings, stud nose ring, plus several finger rings."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Dee Smith"
+        }
+      ],
+      "uuid": "d6e59830-741d-4c24-a393-0023a90f735c"
+    },
+    {
+      "start_time": 135,
+      "end_time": 270,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Invites the audience to snap their fingers or tap their toes, then demonstrates the rhythm they should keep while she performs. Performs a piece opening with the line, \"What da hell, what da hell, what a situation.\" Applause. Smith explains the title is \"Shituation Critical\" (sic).] | Video Description: Medium closeup of Dee Smith snapping fingers to demonstrate to the audience the rhythm they should keep while she performs. Performs a piece. At the end of the piece, zoom into a closeup as Smith makes remarks."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Dee Smith"
+        }
+      ],
+      "uuid": "47bca181-4842-412f-b93f-b6ee79b94c4e"
+    },
+    {
+      "start_time": 270,
+      "end_time": 360,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Introduces the next piece as dedicated to \"some sisters\" Dee Smith used to work with and some of which \"didn't have a strong sense of self, of who they were.\" Performs piece titled \"As Nubian as.\" Applause.] | Video Description: Closeup of Dee Smith performing a piece."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Dee Smith"
+        }
+      ],
+      "uuid": "a42b3035-1ede-4077-8517-6b2c2a1d5866"
+    },
+    {
+      "start_time": 360,
+      "end_time": 447,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "So, this one is a little riddle. At the end of it, you tell me what you think it's all about, and that's the title of it. [Performs riddle piece. Applause. Remarks on the piece.] | Video Description: Medium shot of Dee Smith introducing a piece, then medium closeup as Smith performs it. At the end, closeup as Smith comments on the piece."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Dee Smith"
+        }
+      ],
+      "uuid": "74ffeb7b-3a00-4a0f-9611-265424f58070"
+    },
+    {
+      "start_time": 447,
+      "end_time": 525,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Introduces and performs \"a funny little piece\" about hair. Applause.] | Video Description: Closeup then extreme closeup as Dee Smith introduces and performs a piece."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Dee Smith"
+        }
+      ],
+      "uuid": "344ef079-de8b-4e36-9dae-5032dad66677"
+    },
+    {
+      "start_time": 525,
+      "end_time": 687,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Introduces and performs a political piece about, in Smith's words, \"some of the things I've seen some of my Black sisters going through.\" Smith alternates between Jamaican Patois and standard English. Applause.] | Video Description: Closeup of Dee Smith performing a piece."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Dee Smith"
+        }
+      ],
+      "uuid": "63ac8029-c727-4e55-8907-c5acfb60d385"
+    },
+    {
+      "start_time": 687,
+      "end_time": 802,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Introduces a piece saying \"some people might think this is about smoking, but there's a hidden message in it somewhere.\" Performs piece titled \"Herbs: Ganja, Marijuana, (Cannabis?).\" Applause.] | Video Description: Closeup of Dee Smith performing a piece."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Dee Smith"
+        }
+      ],
+      "uuid": "787edbfb-a648-458f-aa26-43c223d8a8b0"
+    },
+    {
+      "start_time": 802,
+      "end_time": 920,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The next piece is a two-part piece; and it was written after the last craziness that took place at Carifiesta, you know, the holiday when Black people get in the streets and get all crazy. Well, I was rather upset the last time something like this happened. [Performs \"Carifiesta daytime\" (Part 1) and then \"Carifiesta nighttime\" (Part 2).] | Video Description: Closeup of Dee Smith performing a piece."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Dee Smith"
+        }
+      ],
+      "uuid": "a9979381-07c0-46a7-9c78-07d40d303b95"
+    },
+    {
+      "start_time": 920,
+      "end_time": 1065,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Introduces and performs \"Declare war,\" primarily in Jamaican Patois. Applause.] | Video Description: Closeup of Dee Smith performing a piece."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Dee Smith"
+        }
+      ],
+      "uuid": "ad62b6f3-a26c-46d9-9711-58016b9201f4"
+    },
+    {
+      "start_time": 1065,
+      "end_time": 1158,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Introduces and performs \"Reality.\" Applause.] | Video Description: Medium shot of Dee Smith performing a piece."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Dee Smith"
+        }
+      ],
+      "uuid": "5207e4a2-9c95-4859-b74d-2ba05969d451"
+    },
+    {
+      "start_time": 1158,
+      "end_time": 1257,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Introduces and performs \"Cool but deadly.\" Applause.] | Video Description: Medium closeup of Dee Smith performing a piece."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Dee Smith"
+        }
+      ],
+      "uuid": "c7c82d91-43ff-4cb5-9116-653e3d5bcee6"
+    },
+    {
+      "start_time": 1257,
+      "end_time": 1510,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Introduces and performs \"Some kind of love thing\" as a love piece. Minute-long silence between introduction and performance, as Smith looks for the piece among papers. Applause.] | Video Description: Various degrees of closeup of Dee Smith performing a piece."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Dee Smith"
+        }
+      ],
+      "uuid": "1316798c-a348-453e-b7af-046707248038"
+    },
+    {
+      "start_time": 1510,
+      "end_time": 1655,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Introduces and performs another love piece opening with the line \"Come away with me, beautiful lover.\" Applause.] | Video Description: Various degrees of closeup of Dee Smith performing a piece."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Dee Smith"
+        }
+      ],
+      "uuid": "9eafe2e1-c6f4-4ef6-9074-11cc951d497e"
+    },
+    {
+      "start_time": 1655,
+      "end_time": 1766,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Introduces and performs a piece beginning with the line \"Brother to brother\" repeated several times. Applause.] | Video Description: Closeup of Dee Smith performing a piece."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Dee Smith"
+        }
+      ],
+      "uuid": "4085023e-55a8-49c9-ba3b-f0dc1e984755"
+    },
+    {
+      "start_time": 1766,
+      "end_time": 1850,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Introduces and performs a piece about procrastination. Applause.] | Video Description: Closeup of Dee Smith performing a piece."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Dee Smith"
+        }
+      ],
+      "uuid": "13e03285-2422-4615-917f-86a2a1d00e9f"
+    },
+    {
+      "start_time": 1850,
+      "end_time": 1988,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Introduces and performs a piece \"for all the women in the house tonight,\" opening with, \"If I said I didn't like the politics.\" Applause. Thanks the audience.] | Video Description: Various degrees of closeup of Dee Smith performing a last piece."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Dee Smith"
+        }
+      ],
+      "uuid": "45d53ad5-eb56-4fcc-ac5a-6af3ac4c3c36"
+    },
+    {
+      "start_time": 1988,
+      "end_time": 2037,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Thanks Dee Smith and announces a break. Sudden cut.] | Video Description: Various degrees of closeup as Lee Gotham walks to stage and makes remarks. Video suddenly cuts."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Lee Gotham"
+        }
+      ],
+      "uuid": "4a6a5ceb-d73a-47ca-bfda-b309b211c531"
+    },
+    {
+      "start_time": 2037,
+      "end_time": 2044,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Video Description: Black screen with white text that reads \"Fourteen minutes of this video have been removed.\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "SpokenWeb edits",
+          "category": "Setting and Tech"
+        }
+      ],
+      "uuid": "b78bd055-4f6b-4c85-883d-36212dfac57b"
+    },
+    {
+      "start_time": 2044,
+      "end_time": 2049,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Video Description: Medium shot of Gotham adjusting mic stand for Joe De Paul."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Lee Gotham"
+        }
+      ],
+      "uuid": "54d07541-b381-4361-951a-dfab2e8c9d43"
+    },
+    {
+      "start_time": 2049,
+      "end_time": 2820,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Tells a story with surreal turns about his father being fired from his job, before directing his children to create a vegetable garden with ulterior motives. Applause.] | Video Description: Medium shot as Joe De Paul enters the stage. Joe De Paul wears a purple sweater, buzz cut with receding high hairline, stubble goatee and mustache, and a small hoop earring on right lobe. Various degrees of closeup as Joe De Paul tells a story."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Joe De Paul"
+        }
+      ],
+      "uuid": "bbcafd5d-7ce9-4ae4-a4bd-4d045c759b39"
+    },
+    {
+      "start_time": 2820,
+      "end_time": 2852,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Cut to Lee Gotham announcing the open-mic portion of the evening, then inviting Bill to the stage.] Video Description: Cut to a closeup of Lee Gotham making remarks and inviting an open-mic participant to the stage, while smoking a cigarette."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Lee Gotham"
+        }
+      ],
+      "uuid": "9997db44-9734-435e-9b43-273977e19f98"
+    },
+    {
+      "start_time": 2852,
+      "end_time": 2918,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Introduces and performs a piece opening with the line, \"Among the mountains, we start the day like every day.\" Applause.] | Video Description: Closeup of Bill entering the stage while smoking a cigarette. Bill wears a suit jacket over a button-down shirt and long curly hair. Various degrees of closeup as Bill introduces and performs a piece."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Bill"
+        }
+      ],
+      "uuid": "8e3b60e6-5e53-47a7-a56c-13ef2629429d"
+    },
+    {
+      "start_time": 2918,
+      "end_time": 2991,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Performs a piece opening with the line, \"The gratitude of savages.\" Applause.] | Video Description: Medium closeup as Bill performs a piece."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Bill"
+        }
+      ],
+      "uuid": "8a84e973-caec-4aa8-bf01-ad47c88b42f2"
+    },
+    {
+      "start_time": 2991,
+      "end_time": 3043,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Performs \"Why.\" Applause.] | Video Description: Extreme closeup as Bill performs a piece."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Bill"
+        }
+      ],
+      "uuid": "558b82b8-d1d8-4449-96dd-0b1666003b66"
+    },
+    {
+      "start_time": 3043,
+      "end_time": 3078,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Introduces and performs \"Seams.\" Applause.] | Video Description: Extreme closeup as Bill performs a piece."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Bill"
+        }
+      ],
+      "uuid": "a7c73a8b-5e61-4372-ac46-a08043429b7e"
+    },
+    {
+      "start_time": 3078,
+      "end_time": 3132,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Performs a piece opening with the line, \"Come on frolic in my playground.\" Applause.] | Video Description: Medium closeup as Bill performs a piece."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Bill"
+        }
+      ],
+      "uuid": "cdbf6aaf-2bf6-49e7-8f92-1b6caa5ebeb9"
+    },
+    {
+      "start_time": 3132,
+      "end_time": 3191,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Performs a piece opening with the line, \"Glazed stare, disemboweled display.\" Applause.] | Video Description: Medium closeup as Bill performs a piece."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Bill"
+        }
+      ],
+      "uuid": "847cfc42-9918-45be-9a62-fce497f89d3b"
+    },
+    {
+      "start_time": 3191,
+      "end_time": 3226,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Performs a piece opening with the line, \"The forgiving sun again visits.\" Late thinning applause.] | Video Description: Medium closeup as Bill performs a piece."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Bill"
+        }
+      ],
+      "uuid": "a80e54fc-60c5-4f7b-a0e3-af89a2b3d8ec"
+    },
+    {
+      "start_time": 3226,
+      "end_time": 3309,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "This was written on a Christmas night, at a therapy house. [Laughter. Performs a piece opening with the line, \"Living still among the crystal night.\" Applause.] | Video Description: Closeup as Bill performs a piece."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Bill"
+        }
+      ],
+      "uuid": "d8328897-4209-45d3-988f-d85a2faaafd5"
+    },
+    {
+      "start_time": 3309,
+      "end_time": 3356,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Performs a piece opening with the line, \"And if I gaze into the future.\" Applause.] | Video Description: Extreme closeup as Bill performs a piece."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Bill"
+        }
+      ],
+      "uuid": "ddc11c6a-6a7c-4ae8-a010-f68102675846"
+    },
+    {
+      "start_time": 3356,
+      "end_time": 3398,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Performs a piece opening with the line, \"If for this day, for this moment, me.\" Applause.] | Video Description: Extreme closeup as Bill performs a piece."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Bill"
+        }
+      ],
+      "uuid": "b59123a9-5bad-48b1-b968-4d266697fb0f"
+    },
+    {
+      "start_time": 3398,
+      "end_time": 3455,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Performs a piece, opening with the line, \"And, in the middle of my misery, my sanctity diminished.\" Applause.] | Video Description: Medium closeup as Bill performs a piece."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Bill"
+        }
+      ],
+      "uuid": "5e35cf41-6a20-470e-9037-979cb97cc56a"
+    },
+    {
+      "start_time": 3455,
+      "end_time": 3521,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Introduces and performs \"Conformity.\" Thanks the audience. Applause.] | Video Description: Medium closeup as Bill performs a last piece."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Bill"
+        }
+      ],
+      "uuid": "d8645346-dc2f-4944-a942-857e380ab47c"
+    },
+    {
+      "start_time": 3521,
+      "end_time": 3624,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Ambient sounds (white noise).] | Video Description: Black screen with static. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "No signal",
+          "category": "Setting and Tech"
+        }
+      ],
+      "uuid": "c015b809-fb70-4932-af4e-a2838bc7e746"
+    },
+    {
+      "start_time": 3624,
+      "end_time": 3625,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[End of recording.]"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "END",
+          "category": "Setting and Tech"
+        }
+      ],
+      "uuid": "403b08ed-c0c3-4157-82a6-1bb227bda6b9"
     }
   ],
   "event_id": "66e44855-46cd-4e99-9a18-a4dcc9571336",
