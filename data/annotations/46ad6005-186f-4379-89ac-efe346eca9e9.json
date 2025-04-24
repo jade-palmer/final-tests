@@ -3623,6 +3623,1756 @@
         }
       ],
       "uuid": "cd2f6bc0-4308-42b5-859f-1dc21dd0e724"
+    },
+    {
+      "start_time": 0,
+      "end_time": 13,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The tape includes excerpts from four different events: (1) Enough Said 1995-02-20, Backo and Groupe de Poesie Moderne; (2) Enough Said 1995-02-27, Skarstedt and Suderman; (3) Enough Said 1995-03-06, Phineas Flower Trio and Godin; (4) Enough Said 1995-03-13, Karasick."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "SpokenWeb notes",
+          "category": "Setting and Tech"
+        }
+      ],
+      "uuid": "2b3a5319-b799-4e10-9109-14d035428e34"
+    },
+    {
+      "start_time": 14,
+      "end_time": 15,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Video Description: Colour video, different degrees of closeup of the stage at Bistro 4 (Quatre) (4040 St. Laurent, Montreal, QC, H2W 1Y8, Canada). A single mic stand. The stage, slightly below street level, is set against a full-wall window looking out onto the St. Laurent Blvd. traffic---with both pedestrians and vehicles regularly passing by. The windows from across the street are also visible, including an outdoor \"JETHRO\" sign. People frequently pass in front of the camera. On the cafe windows, some decals are partially visible, with words from the menu such as \"DEJEUNER,\" \"CAPPUCCINO,\" and \"TISANE.\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Bistro 4 stage",
+          "category": "Setting and Tech"
+        }
+      ],
+      "uuid": "1e2aa7f8-1665-49fb-a836-9122a26d7b84"
+    },
+    {
+      "start_time": 15,
+      "end_time": 963,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Cuts to Ferrier playing drums while telling a story in English, opening with the line \"Some have seen it and wish they hadn't.\" Applause.] | Video Description: Medium shot of Trevor Ferrier entering the stage and picking up his percussion instrument from the floor. Ferrier wears a red Henley shirt with the sleeves rolled up, shaved head, and thin moustache. Different degrees of closeup as Ferrier tells a story while playing percussion."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Trevor Ferrier"
+        }
+      ],
+      "uuid": "0342039e-6edf-457e-9d94-0906f1046f36"
+    },
+    {
+      "start_time": 963,
+      "end_time": 2110,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Plays the sanza while telling another story in English, opening with the line \"Once on the far side of yesterday there lived a little girl who wanted to know the future.\" Applause.] | Video Description: Medium shot of Trevor Ferrier picking up the sanza.  Different degrees of closeup as Ferrier tells a story while playing the sanza. At some point the camera zooms into an extreme closeup of his hands playing."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Trevor Ferrier"
+        }
+      ],
+      "uuid": "f67304b7-1a86-4032-b724-bdf6d9562af8"
+    },
+    {
+      "start_time": 2110,
+      "end_time": 2129,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Thanks Trevor Ferrier and announces a break.] | Video Description: Lee Gotham walks to stage and makes remarks. Gotham wears a grey button-down shirt with sleeves a bit rolled up and tucked into jeans, black leather belt, full beard, and long hair tied in a ponytail."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Lee Gotham"
+        }
+      ],
+      "uuid": "771b7cb7-adea-48c9-aa96-178a427f2729"
+    },
+    {
+      "start_time": 2129,
+      "end_time": 2140,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Cuts to Lee Gotham introducing Njacko Backo.] | Video Description: Medium long shot from the other side of the stage, now capturing the performers slightly from a diagonal left."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Lee Gotham"
+        }
+      ],
+      "uuid": "325be78d-f259-434d-b46a-393759d49fe9"
+    },
+    {
+      "start_time": 2140,
+      "end_time": 2916,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Salutes the audience in French and tells a story titled \"Macaco.\" Applause.] | Video Description: Closeup of Njacko Backo entering the stage. Backo wears a dark sweater, neck-length braided hair, and a large beaded necklace. As Backo tells a story, the camera alternates among different degrees of closeup and pans from side to side to accompany Backo on stage. At some point, Backo balances a percussion instrument (the same one Ferrier drummed) on his head, acting out part of the story. Backo incorporates call-and-responses and a choruses with the audience into the storytelling."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Njacko Backo"
+        }
+      ],
+      "uuid": "18775220-25fa-4af4-9f70-c0b5810d719b"
+    },
+    {
+      "start_time": 2916,
+      "end_time": 2922,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Applause.] | Video Description: Zoom to a medium closeup as Lee Gotham walks on stage, clapping and smoking."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Lee Gotham"
+        }
+      ],
+      "uuid": "3ee4e26e-eba1-4192-8acc-dbf5c15a5e27"
+    },
+    {
+      "start_time": 2922,
+      "end_time": 2926,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Ambient sounds (white noise).] | Video Description: Black screen with static."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "No signal",
+          "category": "Setting and Tech"
+        }
+      ],
+      "uuid": "9c5c8968-5a3f-4f2a-b540-b39b02886da0"
+    },
+    {
+      "start_time": 2926,
+      "end_time": 3320,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Cuts to the Groupe performing a spoken-word piece, alternating solos with choruses. Audience laughter as a group member repeats the line \"Ce soir.\" Applause.] | Video Description: Cuts to medium shot of the Groupe de Poesie Moderne. All wear black shirts and pants. Six members of the group stand in a circular formation, all facing the stage, with the centre apparently empty. As the group performs, the camera zooms in and out of various degrees of closeup. At some point, a seventh performer emerges from the centre of the group formation, going up and down several times. Later on, the group briefly breaks the formation, acting out an argument."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Groupe de Poesie Moderne"
+        }
+      ],
+      "uuid": "432c85f4-48a6-4aae-bed9-221faffddc22"
+    },
+    {
+      "start_time": 3320,
+      "end_time": 3678,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[The Groupe performs a second spoken-word piece, opening with the line \"Bonsoir, nous sommes le Groupe de Poesie Moderne!\" Applause.] | Video Description: Medium shot of the Groupe de Poesie Moderne. The seven group members now stand in a loose row, all facing the stage. Save by one performer, who reads, all members perform from memory. Zoom in and out of various degrees of closeup."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Groupe de Poesie Moderne"
+        }
+      ],
+      "uuid": "f988dfc1-0ad8-4a30-9cd6-84e3c08063be"
+    },
+    {
+      "start_time": 3678,
+      "end_time": 3818,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[The Groupe performs a third piece, opening with the line \"Bonjour, ma tres belle, je suis inquiet pour toi.\" Applause.] | Video Description: Medium shot of the Groupe de Poesie Moderne performing. The piece opens with only two members dialoguing and facing the audience, while the others stand on either side of the duo, with their backs to the camera. A third member turns to the audience and stands in front of the duo, addressing the audience. At the end, all other members turn to salute the audience, amid applause."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Groupe de Poesie Moderne"
+        }
+      ],
+      "uuid": "cdeef9e4-48d1-4af1-b102-29e856e562d5"
+    },
+    {
+      "start_time": 3818,
+      "end_time": 3830,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Thanks the Groupe de Poesie Moderne. Announces the open mic, as well as upcoming events.] | Video Description: Medium long shot then closeup as Lee Gotham thanks the performers and makes announcements."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Lee Gotham"
+        }
+      ],
+      "uuid": "81276514-605b-4000-8dc0-942382af034b"
+    },
+    {
+      "start_time": 3830,
+      "end_time": 3838,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Ambient sounds (white noise).] | Video Description: Black screen with static."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "No signal",
+          "category": "Setting and Tech"
+        }
+      ],
+      "uuid": "06c9cc15-6d73-4f44-96a3-d98493c3eb4c"
+    },
+    {
+      "start_time": 3838,
+      "end_time": 1138,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Cuts to Skarstedt reading the short story \"Heaven and Hell\" (later published as part of the play \"Saint Francis of Esplanade,\" Empyreal Press, 2001).] | Video Description: Medium closeup, then zoom in and out, oscillating between extreme closeup and medium shot. Skarstedt wears a sweater with an eight-point-star pattern, dangle earrings, and a blonde mullet. Lee Gotham adjusts the mic as Sonja Skarstedt walks onto the stage. Gotham wears a black turtleneck, stud earrings on the left lobe, hair tied under a black Taqiyah-style skullcap with a folded visor, and a beard. Skarstedt reads from a manuscript."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Sonja Skarstedt"
+        }
+      ],
+      "uuid": "f3137132-5559-4c1c-b3a9-c060face9291"
+    },
+    {
+      "start_time": 1138,
+      "end_time": 1142,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Exclaims \"Poor Lord!\" and the audience laughs.] | Video Description: Medium closeup. Sonja Skarstedt reads."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Sonja Skarstedt"
+        }
+      ],
+      "uuid": "cd47d678-f0eb-42a5-a6e4-bc0b92ed7925"
+    },
+    {
+      "start_time": 1142,
+      "end_time": 5817,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Resumes reading of \"Heaven and Hell\" after audience laughter. Applause.] | Video Description: Alternating medium closeup and closeup. Skarstedt continues reading. At the end, walks off stage amid applause as the camera zooms out to a medium long shot."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Sonja Skarstedt"
+        }
+      ],
+      "uuid": "7ee167e8-1b02-4350-af4b-0aa5e3959a9e"
+    },
+    {
+      "start_time": 5817,
+      "end_time": 5825,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Ambient sounds (white noise).] | Video Description: Black screen with static."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "No signal",
+          "category": "Setting and Tech"
+        }
+      ],
+      "uuid": "9d96456f-faf4-4cf7-86e6-32593f7838bf"
+    },
+    {
+      "start_time": 5825,
+      "end_time": 5835,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Cuts to ambient sounds, voices.] | Video description: Medium shot of Gotham adjusting the mic and standing in front of the camera."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Lee Gotham"
+        }
+      ],
+      "uuid": "e9297e34-0855-4dba-8cea-e94355b6ee54"
+    },
+    {
+      "start_time": 5835,
+      "end_time": 5923,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "My friend Mary brought me a Bible for this [Laughter]. [Tells a story about her first tattoo and people asking the same two questions about it: does it hurt, and is it permanent? Then presents these questions as a motto for our times, applicable to government budgets, haircuts, and wakes.] So, this is my wake, for February and for the fact that I quit smoking and February is the worst month to quit smoking and I'm not doing very well. | Video Description: Medium shot as Lee Gotham leaves and Lynn Suderman walks onto the stage. Suderman wears a black long-sleeved blouse and short black hair tucked behind ears. Suderman drinks from a glass and holds a Bible and a pack of pages. After setting the glass down, tells a story, brandishes the Bible and settles it down to read."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Lynn Suderman"
+        }
+      ],
+      "uuid": "4f6edbc7-7985-41e7-b528-ef2e8982d83d"
+    },
+    {
+      "start_time": 5923,
+      "end_time": 6364,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Reads \"Wake up,\" beginning with the line, \"I went on a long drive one summer's day.\" Occasional unscripted interruptions to interact with the audience. Frequent bursts of laughter.] | Video Description: Alternating closeup and medium closeup. Lynn Suderman reads and interacts with the audience."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Lynn Suderman"
+        }
+      ],
+      "uuid": "af5a01d6-5888-41a0-a43d-f6a518bd76c8"
+    },
+    {
+      "start_time": 6364,
+      "end_time": 6385,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Interrupts the reading to ask her friend Mary to help search for a Bible passage. Starts reciting from memory when Mary finds the passage] | Video Description: Closeup then medium closeup of Lynn Suderman on stage. Suderman interrupts the reading and walks to the audience to ask her friend to search for a Bible passage.]"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Lynn Suderman"
+        }
+      ],
+      "uuid": "19a0a383-d562-4724-9d69-624dfef14591"
+    },
+    {
+      "start_time": 6385,
+      "end_time": 6449,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Continues performing \"Wake Up.\" Friend hands her the bible. Suderman reads from the bible and her pages. Makes one more unscripted interruption, causing a burst of laughter among the audience. Applause] | Video Description: Alternating medium and extreme closeups. Lynn Suderman reads. Zoom out to a medium shot as Suderman leaves the stage."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Lynn Suderman"
+        }
+      ],
+      "uuid": "74e6fa6e-2ed9-45d7-a32a-9596a4cc1df1"
+    },
+    {
+      "start_time": 6449,
+      "end_time": 6457,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Ambient sounds (white noise).] | Video Description: Black screen with static."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "No signal",
+          "category": "Setting and Tech"
+        }
+      ],
+      "uuid": "c03be340-6392-410e-b777-718a9bd84223"
+    },
+    {
+      "start_time": 6457,
+      "end_time": 6464,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Cuts to Gotham introducing the Phineas Flower Trio.] | Video Description: Closeup of Gotham speaking into the mic. Gotham wears a Taqiyah-style skullcap, and long button-down shirt over a t-shirt."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Lee Gotham"
+        }
+      ],
+      "uuid": "2555b90b-7a41-4518-940e-e138fea553c5"
+    },
+    {
+      "start_time": 6464,
+      "end_time": 6465,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Voice interrupts Gotham from out of the frame] Just get on with it, man! | Video Description: Zoom out from Lee Gotham and pan left to the Phineas Flower Trio."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Phineas Flower Trio"
+        }
+      ],
+      "uuid": "f096fcd7-9029-4a27-ada3-d6b1f7d610e7"
+    },
+    {
+      "start_time": 6465,
+      "end_time": 6505,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I believe want you to keep your distance during their act, they want lots of space, so just stay where you are [laughter]. A little later in the evening we will have Steve Godin. Steve Godin is going to do something that will set everyone's teeth on edge [laughter]. It's not true; Steve is a wonderfully amenable type and he's gonna be here with us before very long. And in the meantime please welcome Phineas Flower. Stay where you are. [Applause]. | Medium long shot panning between Lee Gotham, standing, and the Phineas Flower Trio, sitting, one of them smoking. Gotham finishes his remarks and introduces the Phineas Flower Trio."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Lee Gotham"
+        }
+      ],
+      "uuid": "6c61e8d2-8194-4a72-81ad-66dfeab51d1a"
+    },
+    {
+      "start_time": 6505,
+      "end_time": 6531,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Drummer interrupts the applause] No clapping, we are serious jazz musicians. [Laughter] | Video Description: Medium long shot of Lee Gotham leaving the stage and the Phineas Flower Trio walking to their instruments and places. Before sitting by the drums, the drummer goes to the mic. The drummer wears a long green coat over a black turtleneck and buzz-cut hair. The camera zooms into a closeup of the mic, and the guitar player gets his instrument caught on the mic cable, almost knocking the stand down."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Phineas Flower Trio"
+        }
+      ],
+      "uuid": "1a2326ff-f90f-4721-afcf-292668294186"
+    },
+    {
+      "start_time": 6531,
+      "end_time": 6601,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[The band spends an unnecessarily long time tuning and making adjustments, seemingly to irritate the audience.] | Video Description: Zoom out to a medium long shot of the stage, panning left and right, showing the Phineas Flower Trio: the drummer on right of the screen, further to the back behind the mic stand; the guitar player in the middle putting his lit cigar on his guitar head among the tuning keys; and the bass player on the left smoking. The guitar player wears a grey Henley shirt with sleeves rolled-up to the elbow, short hair, a thin moustache, and a goatee. The bass player wears a black and red coat over a patterned button-down shirt, long hair, a Van-Dyke beard, and sunglasses."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Phineas Flower Trio"
+        }
+      ],
+      "uuid": "363e746a-4312-4a5b-a63f-3d8b49697f01"
+    },
+    {
+      "start_time": 6601,
+      "end_time": 6677,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Unknown_Audience_Member] Let's go, eh?! [Two band members, aggressively] Back off! What the fuck was that? Why don't you shut up?! | Video Description: Medium long shot of the stage, panning left and right, showing the Phineas Flower Trio."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Phineas Flower Trio"
+        },
+        {
+          "tag": "Unknown_Audience_Member",
+          "category": "Performers and Speakers"
+        }
+      ],
+      "uuid": "0ca04acc-cc95-4180-9760-a3a364ef71eb"
+    },
+    {
+      "start_time": 6677,
+      "end_time": 6817,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[A vocalist joins the Phineas Flower Trio to plays their first song, a spoken-word piece against a jazzy groove. One one of the first lines is \"(Dereliction?) and (pain?), corrupted by ambient (rain?).\" At the end of the first piece, the vocalist says, \"Thank you very much, we are the Phineas Flower Trio.\"] | Video Description: Medium long shot of vocalist leaving the audience to join the Phineas Flower Trio, sitting on a bar stool, higher than the other band members. The vocalist wears short curly hair, sunglasses, and a grey sweater over a flowery dress. He is smoking and carrying a beverage. The camera zooms in and out, settling on a medium shot of the vocalist, with the drummer partially visible behind, the latter playing while smoking. The vocalist takes a sip, then puts both glass and cigarette down to perform."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Phineas Flower Trio"
+        }
+      ],
+      "uuid": "7e4d92f8-eccf-4bc9-904f-d1a7b34a0aff"
+    },
+    {
+      "start_time": 6817,
+      "end_time": 7025,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Performs a second spoken-word-jazz fusion piece, beginning with the line \"(Motorway?) superhighway, a massive feat of evolution in engineering.\"] | Video Description: Medium closeup alternating with a medium long shot of the Phineas Flower Trio performing."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Phineas Flower Trio"
+        }
+      ],
+      "uuid": "377c4687-8850-460f-8050-ca9bb54ce2ce"
+    },
+    {
+      "start_time": 7025,
+      "end_time": 7086,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Performs a third spoken-word-jazz piece. One of the first lines is \"Richard Carlyle (?) among the wreckage.\" Applause.] | Video Description: Medium closeup panning among the band members of Phineas Flower Trio, who perform another piece. At the end of the piece, medium long shot of the guitarist and vocalist, with the drummer partially visible; the vocalist smokes between songs."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Phineas Flower Trio"
+        }
+      ],
+      "uuid": "06344a6f-ccfb-470e-8d77-82e33f1af43f"
+    },
+    {
+      "start_time": 7086,
+      "end_time": 7102,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[The vocalist, shouting] Hey! [Unknown_Audience_Member, half-mockingly] No clapping. [The vocalist] We're serious fucking jazz musicians up here. | Video Description: Medium long shot of the guitarist and vocalist, with the drummer partially visible."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Phineas Flower Trio"
+        },
+        {
+          "tag": "Unknown_Audience_Member",
+          "category": "Performers and Speakers"
+        }
+      ],
+      "uuid": "d159a1ee-a44b-4e93-a0c7-cebe79124494"
+    },
+    {
+      "start_time": 7102,
+      "end_time": 945,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Unknown_Audience_Member] I didn't fucking clap. [The vocalist] Good. What's next, (Zanny?)?] | Video Description: Medium long shot of the guitarist and vocalist, with the drummer partially visible; then pan left to the bass player."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Phineas Flower Trio"
+        },
+        {
+          "tag": "Unknown_Audience_Member",
+          "category": "Performers and Speakers"
+        }
+      ],
+      "uuid": "a86fd2f4-737a-4543-9d41-10042f3b2db8"
+    },
+    {
+      "start_time": 945,
+      "end_time": 7317,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[The bass player states the title of the next piece, which is incomprehensible, then the band performs it. One of the first lines is \"As the last drops of (glucose?) (?) (Cola?) go down his throat.\"] | Video Description: Medium long shot of the Phineas Flower Trio, panning left and right among the band members. Zoom into a closeup of the vocalist, who drinks from a glass before the next song; then zoom out to a medium shot as the band performs, ending in a medium closeup."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Phineas Flower Trio"
+        }
+      ],
+      "uuid": "e94459dd-1e1b-4f62-ade8-61d593c02f27"
+    },
+    {
+      "start_time": 7317,
+      "end_time": 7346,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[The Phineas Flower Trio performs a piece beginning, \"Somewhere, somewhere higher than the sky.\" At the end of the piece, the vocalist repeats what he said at the end of the first song, \"Thank you very much, we are the Phineas Flower Trio.\"] | Video Description: Medium closeup of the vocalist, as the band performs. At the end of the piece, the vocalist drinks from a glass."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Phineas Flower Trio"
+        }
+      ],
+      "uuid": "bf57c4d8-0593-415e-aab0-6646ed40d2a5"
+    },
+    {
+      "start_time": 7346,
+      "end_time": 7550,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[The vocalist, after thanking the audience] That sucked. [Unknown_Audience_Member] What kind of noise is this? [The vocalist] Bad noise! [The drummer] Wait, man, I don't like this dialogue going on. Can't anyone straighten this young lady out? [Vocalist] Let's play the next song. [Guitar player] Ok, who's the fucking pinhead who said that? [Vocalist] Yo (Zanny?), what's the next song? [As the bass player starts to answer, the guitarist, aggressively] Pinheads, raise your fucking head. [Drummer] Get 'em, boy! [Vocalist] Alright, let's play the song. [Guitarist] You're lucky I'm in a good mood. | Video Description: Medium shot, panning left and right, of the band members interacting with each other and with the audience."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Phineas Flower Trio"
+        },
+        {
+          "tag": "Unknown_Audience_Member",
+          "category": "Performers and Speakers"
+        }
+      ],
+      "uuid": "3b428b88-1a1f-48d7-a2ea-33226951ad59"
+    },
+    {
+      "start_time": 7550,
+      "end_time": 7586,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[The Phineas Flower Trio performs a piece, opening with a looping drum-bass riff. The vocalist burps into the mic before singing the first lines: \"(You're usually?) flapping its wings, a bee flies across the field (and fell?) searching frantically for food, gasping for breath.\" Mid-performance, the drummer screams in the background. At the end of the piece, with the instrumentalists still playing, he vocalist repeats, \"Thank you very much, we are the Phineas Flower Trio.\"] | Video Description: Medium shot of the band, with the vocalist unbuttoning and taking off his sweater, so now his flower dress is entirely visible. Then zoom into a closeup of the vocalist as he starts singing while holding a cigarette, sometimes smoking between lines. Mid-performance, the camera zooms out and alternates between a medium shot and medium long shot."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Phineas Flower Trio"
+        }
+      ],
+      "uuid": "6b23928c-31fb-4911-ac21-0da11eef86c0"
+    },
+    {
+      "start_time": 7586,
+      "end_time": 7599,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[The vocalist, after thanking the audience] Next. [Unknown_Audience_Member] Don't say thank you, we're a serious fucking audience. [Vocalist] Alright! [Guitar player] You're a really fucking funny guy, man. [Vocalist] Let's go, next song! [Scattered laughter and incomprehensible heckling between band and audience] | Video Description: Medium shot, panning left and right, of the band members interacting with each other and with the audience."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Phineas Flower Trio"
+        },
+        {
+          "tag": "Unknown_Audience_Member",
+          "category": "Performers and Speakers"
+        }
+      ],
+      "uuid": "a7b0a806-d1c8-4f8a-937f-70a2bfd39934"
+    },
+    {
+      "start_time": 7599,
+      "end_time": 7697,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Vocalist] In case you didn't notice, this is an artistic (event?). [Unknown_Audience_Member] If you didn't (pack your lip?) it would be better. [Vocalist] Go for it. [Guitarist] Better than what? | Video Description: Closeup of the vocalist interacting with the band members and the audience."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Phineas Flower Trio"
+        },
+        {
+          "tag": "Unknown_Audience_Member",
+          "category": "Performers and Speakers"
+        }
+      ],
+      "uuid": "92e0c4fe-4180-4e72-a679-d2e584a232ad"
+    },
+    {
+      "start_time": 7697,
+      "end_time": 7723,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The Phineas Flower Trio performs a piece, opening with a looping guitar riff, then a sudden pause, when the vocalist says \"Hey.\"] | Video Description: Zoom into an extreme closeup of the vocalist, smoking, then performing."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Phineas Flower Trio"
+        }
+      ],
+      "uuid": "6d0c782e-13f6-4e91-ace4-be2a1939420a"
+    },
+    {
+      "start_time": 7723,
+      "end_time": 7770,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[The band suddenly stops playing, and the drummer says to the guitarist, both out of the frame] Hey man, it's you. [Guitarist] No, it's you. [Drummer] You fucked up twice there. [Vocalist, trying to intervene] Let's take it, let's just take it... [Guitarist] (?) you have, like, no sense of time (?). [Laughter, while the argument continues, until the vocalist commands] Play! | Video Description: Closeup of the vocalist, drinking from a glass and trying to resume the performance while the band argues."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Phineas Flower Trio"
+        }
+      ],
+      "uuid": "ced5b80f-90e2-46e8-9255-cfaefe3cea96"
+    },
+    {
+      "start_time": 7770,
+      "end_time": 7980,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[The band resumes playing the same piece]. | Video Description: Closeup of the vocalist, often sipping from a glass, while the band performs. Towards the end of the piece, the camera zooms out to a medium long shot, so the drummer and guitarist also become visible."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Phineas Flower Trio"
+        }
+      ],
+      "uuid": "a54d1e62-bf39-4176-b7aa-5d069d8c93eb"
+    },
+    {
+      "start_time": 7980,
+      "end_time": 6461,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Bassist states the name of the next song] Next song is \"Disgusting family.\" [Vocalist announces] Alright, this is our last piece and then you will be rid of us once and for all. You can clap for that if you want! [Laughter] [Drummer] Disgusting family? [Vocalist] Wow, I don't know, if Zanny's standing up for this one, gotta mean something. [Laughter, shouts] [Vocalist] Zanny's a studio musician, does a lot of uppers and stuff. | Video Description: Medium long shot, panning left and right between the bassist and vocalist, then zoom unto an extreme closeup of the vocalist. The bassist stands up and the camera pans left to show him. As the band starts performing, the camera pans back right and zooms into a medium closeup of the vocalist."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Phineas Flower Trio"
+        }
+      ],
+      "uuid": "5de437de-a36b-4d1e-8dca-df186e04992c"
+    },
+    {
+      "start_time": 6461,
+      "end_time": 8108,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Vocalist interrupting the song to address the guitarist] Yo Kevin? Kevin? What the fuck is this? It's just such fucking shitty noise (which you just made with that?) guitar, man. How much talent does it take to stick a fucking patch cord into a guitar anyway? [Many talk at once and the argument continues until the Vocalist suggests] Or just keep doing what you're doing. Alright, here we go, it's your noise! | Video Description: Closeup of the vocalist interrupting the piece to complain about the guitarist. The camera pans to the drummer and the guitarist then back to the vocalist."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Phineas Flower Trio"
+        }
+      ],
+      "uuid": "ee35eb16-1dbb-414d-afb6-d2b2f3914a52"
+    },
+    {
+      "start_time": 8108,
+      "end_time": 8116,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[The band resumes playing the same piece, and the vocalists speaks the last lines while the band is still playing]. Thanks for nothing. We're the Phineas Flower Bar Mitzvah Quartet. We play weddings, funerals, bar mitzvahs, birthday parties. T-shirts and CDs are available at the door. [Applause] | Video Description: Closeup and extreme closeup of the vocalist, while the band performs. Towards the end of the piece, the camera zooms out to a medium long shot and pans left and right, so the other band members become visible as they stand up and leave the stage."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Phineas Flower Trio"
+        }
+      ],
+      "uuid": "faa5490f-e7a0-401f-8470-38909ae2daf0"
+    },
+    {
+      "start_time": 8116,
+      "end_time": 8542,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Cuts to Godin reading piece beginning with the phrase, \"For some time I was pondering theoretically on a compromise revolving around the ritual existence of...\" The text refers to Antonin Artaud, William S. Burroughs, and Gerard de Nerval, among others. One minute into the reading, a distorted slow-moving instrumental music becomes audible in the background and gradually increases in volume.] | Video Description: Alternating medium closeup and closeup of Steve Godin seating, reading while holding the mic. Godin wears a black leather jacket and shoulder-length grey hair."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Steve Godin"
+        }
+      ],
+      "uuid": "261fbcbf-1b4e-4516-a3b1-f07893801df1"
+    },
+    {
+      "start_time": 8542,
+      "end_time": 8565,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "But where is the guide? [After the question, Godin sighs into the mic, observing a pause of about 20 seconds during which we hear the background music and ambient noises.] | Video Description: Camera zooms out to a medium shot, as Godin continues to perform."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Steve Godin"
+        }
+      ],
+      "uuid": "90525abe-e9e4-46d9-a333-39423624f746"
+    },
+    {
+      "start_time": 8565,
+      "end_time": 8850,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Resumes reading with an increased reverb effect on the voice. The instrumental background music, now louder, approaches the volume of Godin's voice.] | Video Description: Alternating medium shot and closeup, as Godin continues to perform."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Steve Godin"
+        }
+      ],
+      "uuid": "88070fb2-b415-4515-bf85-56f7fca3528d"
+    },
+    {
+      "start_time": 8850,
+      "end_time": 9254,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Pauses. The background music also stops for a few seconds, before resuming, developing different looping patterns. Applause.] | Video Description: Alternating medium closeup, medium shot, and closeup, as Godin continues to perform. Camera zooms out to a medium long shot, as Godin stands up to leave the stage, amid applause, and hands the mic to Lee Gotham."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Steve Godin"
+        }
+      ],
+      "uuid": "3359c5a8-d6f2-4fc6-b7dc-0b65a384cd36"
+    },
+    {
+      "start_time": 9254,
+      "end_time": 9255,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Ambient sounds (white noise).] | Video Description: Black screen with static."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "No signal",
+          "category": "Setting and Tech"
+        }
+      ],
+      "uuid": "84bc6d70-1ed1-4dd4-ab40-e7c4a1da50cb"
+    },
+    {
+      "start_time": 9255,
+      "end_time": 9274,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Cuts to Gotham introducing Adeena Karasick. Applause.] | Video Description: Closeup of Gotham speaking into the mic. Gotham wears a yellow long-sleeved shirt and a matching yellow bandana tied around head. Gotham adjusts the mic."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Lee Gotham"
+        }
+      ],
+      "uuid": "2894336e-67a9-48a0-9731-36d09abbc22b"
+    },
+    {
+      "start_time": 9274,
+      "end_time": 8790,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Performs a piece beginning with chanting and followed by the line \"Once, upon, I came to you when I could not be integrated\" Applause.] | Video Description: Varying degrees of closeups as Karasick performs a piece. Karasick wears a black zippered vest over a black long-sleeved shirt, gold dangling earrings, and shoulder length black hair that is loose and slightly curled."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Adeena Karasick"
+        }
+      ],
+      "uuid": "a82f42f9-571f-478d-a5fa-1d3d90c223e4"
+    },
+    {
+      "start_time": 8790,
+      "end_time": 9624,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Thanks the audience. Explains that she will be reading pieces from multiple works, and that some relationships are only good for two things; \"a poem at the beginning, and a poem at the end.\" Laughter. Performs a piece beginning with the line \"Incidentally accidental, it was an accident.\" Laughter throughout. Applause.] | Video Description: Varying degrees of closeups as Karasick introduces the piece, until maintaining a medium closeup while Karasick performs."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Adeena Karasick"
+        }
+      ],
+      "uuid": "5b201740-2e3c-41dd-91c3-60facd2418d4"
+    },
+    {
+      "start_time": 9624,
+      "end_time": 9780,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Explains the Poetry Express project in Toronto, in which poets performed on a bus. Performs a piece beginning with the line \"Keep your eyes on the road.\" Applause.] | Video Description: Medium shot as Karasick flips through papers on a blue box over a trolley cart, which also holds an almost full glass beer bottle. Medium closeup as Karasick performs a piece."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Adeena Karasick"
+        }
+      ],
+      "uuid": "7f74186e-0162-41bc-bfa5-247c830c4a97"
+    },
+    {
+      "start_time": 9780,
+      "end_time": 10110,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Introduces and performs an excerpt of a longer work called Archetorture (Wave7Press, 1990) that, Karasick explains, explores memory and her mother's death. Applause.] | Video Description: Flips through papers on trolley. Sips beer. Flips through papers again. Medium closeup as Karasick performs a piece."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Adeena Karasick"
+        }
+      ],
+      "uuid": "00bf1244-5fda-4603-ba33-49dc32849582"
+    },
+    {
+      "start_time": 10110,
+      "end_time": 10484,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Tells story about travelling in Germany. Performs a piece beginning with chanting and followed by the line, \"And I go in to take the (?) to Meine, to Meine,\" which contains both English and German. Karasick interrupts the poem to explain how food vocabulary is often the first words picked up in a new language, and then continues performing. Laughter throughout. Applause.] | Video Description: Sips beer. Shows audience an illustration in one of her collections (cover unidentifiable.) Performs a piece. The camera maintains a medium closeup. Closes books, sips beer, and it overflows with foam. Exits the stage and the frame."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Adeena Karasick"
+        }
+      ],
+      "uuid": "01db639d-f733-466d-bb2c-87327b49fe7d"
+    },
+    {
+      "start_time": 10484,
+      "end_time": 10490,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Ambient sounds (white noise).] | Video Description: Black screen with static."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "No signal",
+          "category": "Setting and Tech"
+        }
+      ],
+      "uuid": "c0c24eeb-00e1-491d-b772-e2643743242c"
+    },
+    {
+      "start_time": 10490,
+      "end_time": 10519,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Cuts to ambient sounds, voices.] | Video Description: Medium shot as Karasick and Gotham have an inaudible conversation."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Adeena Karasick"
+        },
+        {
+          "tag": "Lee Gotham",
+          "category": "Performers and Speakers"
+        }
+      ],
+      "uuid": "20c96cb9-4f6b-4eb5-8f48-2309d91fc958"
+    },
+    {
+      "start_time": 10519,
+      "end_time": 10596,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Performs a piece beginning with chanting and followed by the line \"When the word is bound (?)\" Applause.] | Video Description: Reorganizes papers on trolley. Asks Gotham for something indiscernible with gesturing. Medium shot and extreme closeup as Karasick performs a piece."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Adeena Karasick"
+        }
+      ],
+      "uuid": "4dc6d5c2-b4c0-447d-ab8b-799f9fb7d5bb"
+    },
+    {
+      "start_time": 10596,
+      "end_time": 10760,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Performs a piece titled \"Autobahn Cruise\" (Memewars, Talonbooks, 1994). Applause.] | Video Description: Medium shot as Karasick performs a piece."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Adeena Karasick"
+        }
+      ],
+      "uuid": "0048e8e7-7a9b-42b5-accd-5dc7054a9b59"
+    },
+    {
+      "start_time": 10760,
+      "end_time": 11010,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Performs a chanting piece that includes the line \"just a little bit harder\" from an unknown project called Squalor. Pauses performance. Says, \"I've lost my page.\" Recommences. Laughter throughout. Applause]. | Video Description: Medium closeups and medium shots as Karasick performs a piece. Partway through, looks through folders of papers on the trolley to find another page. Recommences."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Adeena Karasick"
+        }
+      ],
+      "uuid": "50db0247-be98-410f-834e-e79ac0909346"
+    },
+    {
+      "start_time": 11010,
+      "end_time": 11027,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Video Description: Readjusts the microphone that has begun to tilt downwards."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Lee Gotham"
+        }
+      ],
+      "uuid": "75e86de9-f9fa-4399-b619-a303d7a76868"
+    },
+    {
+      "start_time": 11027,
+      "end_time": 11333,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Introduces and performs a piece called \"Parasite Maintenance.\" Applause.] | Video Description: Medium shots and extreme closeups as Karasick reorganizes papers on trolley and performs a piece."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Adeena Karasick"
+        }
+      ],
+      "uuid": "16a2aa6a-da6d-422c-a6cd-5ad65c27e595"
+    },
+    {
+      "start_time": 11333,
+      "end_time": 11332,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Introduces and performs a piece titled \"Aghast\" (The Empress Has No Closure, Talonbooks, 1992). Shortly after starting to perform, briefly pauses and laughs. Applause.] | Video Description: Medium shot as Karasick performs a piece, pausing briefly to laugh near the beginning."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Adeena Karasick"
+        }
+      ],
+      "uuid": "22201c4f-4490-472e-bf52-e924580301bc"
+    },
+    {
+      "start_time": 11332,
+      "end_time": 3812,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Introduces and performs a chanting piece beginning with the line \"can't get enough serotonin.\" Applause.] | Video Description: Reorganizes papers on trolley. Medium shot as Karasick performs a piece. Gathers papers and water glass and leaves the stage."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Adeena Karasick"
+        }
+      ],
+      "uuid": "2cb060a9-30cb-46f1-ad85-ccb9539f5607"
+    },
+    {
+      "start_time": 3812,
+      "end_time": 11618,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Encourages the audience to ask for an encore. Applause.] | Video Description: Gotham speaks briefly into the mic and claps."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Lee Gotham"
+        }
+      ],
+      "uuid": "25ddc3c9-110a-4a5b-9ecb-3d03ebfc8fb5"
+    },
+    {
+      "start_time": 11618,
+      "end_time": 11624,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Ambient sounds (white noise).] | Video Description: Black screen with static."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "No signal",
+          "category": "Setting and Tech"
+        }
+      ],
+      "uuid": "6e5e7ef6-1747-4884-8990-fb1a0337a20d"
+    },
+    {
+      "start_time": 11624,
+      "end_time": 11789,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Cuts to Karasick explaining that \"things are more uptight in Toronto.\" Audience laughs at something unknown, Karasick asks, \"what?\" Performs a chanting piece beginning with the line, \"Ululate pullulations, exhorting (Mortimer?) writhed in (bendable?) straddles.\" Applause.] | Video Description: Medium shot as Karasick introduces and performs a piece."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Adeena Karasick"
+        }
+      ],
+      "uuid": "c303f9e7-0207-4665-9bc5-ff7e05ad3659"
+    },
+    {
+      "start_time": 11789,
+      "end_time": 11795,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Ambient sounds (white noise).] | Video Description: Black screen with static."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "No signal",
+          "category": "Setting and Tech"
+        }
+      ],
+      "uuid": "14cc905b-d1e7-4d7d-bc10-c1b5620f2ef3"
+    },
+    {
+      "start_time": 11795,
+      "end_time": 11796,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Cuts to ambient noise and applause.] | Video Description: Medium shot of Gotham leaving the stage."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Lee Gotham"
+        }
+      ],
+      "uuid": "2bb57eb2-c301-4b1b-bc82-6a4c303e9ad2"
+    },
+    {
+      "start_time": 11796,
+      "end_time": 11905,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Introduces and performs a piece called \"Words.\" Applause.] | Video Description: Closeups as David Jager performs a piece. David Jager wears a light brown striped button-down shirt with sleeves rolled up to the elbow, dark brown hair falling onto forehead in strands."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "David Jager"
+        }
+      ],
+      "uuid": "a3547dc0-8446-4767-8ee5-224e29592ee8"
+    },
+    {
+      "start_time": 11905,
+      "end_time": 11988,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Asks the audience if they want to hear an angry poem. Cheering. Introduces and performs a piece called \"Smoke Eat Drive.\" Applause.] | Video Description: Closeups as David Jager performs a piece. Applause and cheering throughout."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "David Jager"
+        }
+      ],
+      "uuid": "f2052367-2c7e-42e7-8575-362a05e94bff"
+    },
+    {
+      "start_time": 11988,
+      "end_time": 5205,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Introduces and performs a piece called \"Missing.\" Applause.] | Video Description: Medium closeups and medium shots as David Jager performs a piece."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "David Jager"
+        }
+      ],
+      "uuid": "cf74b746-da3f-49af-8f7a-662fd315260e"
+    },
+    {
+      "start_time": 12405,
+      "end_time": 12182,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Looks through papers. Mumbles. Introduces and performs a piece called \"Dream Chicken.\" Applause.] | Video Description: Looks through papers. Loose and regular closeups as David Jager introduces and performs a piece."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "David Jager"
+        }
+      ],
+      "uuid": "c237260c-e57f-42bf-bf84-654b6fa5d1fa"
+    },
+    {
+      "start_time": 12182,
+      "end_time": 12192,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Ambient sounds (white noise).] | Video Description: Black screen with static."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "No signal",
+          "category": "Setting and Tech"
+        }
+      ],
+      "uuid": "8e03c20c-2de4-4138-b4f0-b6ab5ef292a4"
+    },
+    {
+      "start_time": 12192,
+      "end_time": 12222,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Cuts to Joseph performing an unknown piece. Audience clapping along with Joseph.] | Video Description: Medium long shot of Joseph performing a piece, gesturing and stomping his foot in rhythm. Joseph wears a brown button-up vest over a light green short-sleeved shirt, black-framed glasses, and short black hair."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Clifton Joseph"
+        }
+      ],
+      "uuid": "38fa87bc-4478-4ee0-9dc6-3ef6603d47dd"
+    },
+    {
+      "start_time": 12222,
+      "end_time": 12225,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Cuts to Anne Diamond performing a piece titled \"Shoe Salesman.\"] | Video Description: Medium shot of Anne Diamond performing a piece. Diamond wears a jean jacket over a grey cowl-neck sweater and pixie-cut blond hair with bangs."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Anne Diamond"
+        }
+      ],
+      "uuid": "01a6630a-6fa0-4f9b-b3a1-449e6cdef169"
+    },
+    {
+      "start_time": 12225,
+      "end_time": 12241,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Cuts to Joseph performing the same unknown piece. Audience clapping along with Joseph.] | Video Description: Medium long shot of Joseph performing a piece, gesturing and stomping his foot in rhythm."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Clifton Joseph"
+        }
+      ],
+      "uuid": "80805180-8c44-4a88-bafb-a433905d9bac"
+    },
+    {
+      "start_time": 12241,
+      "end_time": 12263,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Ambient sounds (white noise).] | Video Description: Black screen with static."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "No signal",
+          "category": "Setting and Tech"
+        }
+      ],
+      "uuid": "0d4619eb-9187-469c-9276-f5985fe6a043"
+    },
+    {
+      "start_time": 12263,
+      "end_time": 12264,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[End of recording.]"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "END",
+          "category": "Setting and Tech"
+        }
+      ],
+      "uuid": "a421f308-fbe6-4bb1-9cec-9bdc79962752"
     }
   ],
   "event_id": "66e44855-46cd-4e99-9a18-a4dcc9571336",
