@@ -967,6 +967,1518 @@
         }
       ],
       "uuid": "3c34fb9b-20ef-4ed8-ba01-13acb00a0ddd"
+    },
+    {
+      "start_time": 52,
+      "end_time": 52,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Lee has so many fun hats in this series"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Watch Party Commentators",
+          "tag": "Jade Palmer"
+        }
+      ],
+      "uuid": "ff508345-2ef6-4b9d-acfc-ad394f6ccf3f"
+    },
+    {
+      "start_time": 99,
+      "end_time": 99,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Do you all know if Lee did receive a grant for the Enough Said series?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Watch Party Commentators",
+          "tag": "Jason Camlot"
+        }
+      ],
+      "uuid": "6a4e7ea7-0871-4a13-8670-698f44a14b4a"
+    },
+    {
+      "start_time": 131,
+      "end_time": 131,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Good start with a spoken word piece about a spoken word series. The 90s were sooo meta!"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Watch Party Commentators",
+          "tag": "Justin McGrail"
+        }
+      ],
+      "uuid": "ecab60c4-7f68-4009-8c21-c0e2d20b8c9a"
+    },
+    {
+      "start_time": 184,
+      "end_time": 184,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yes. He couldn't be accused of not delivering on his project proposal."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Watch Party Commentators",
+          "tag": "Jason Camlot"
+        }
+      ],
+      "uuid": "93aaab49-6a82-4e77-bd1f-9c6ba080d916"
+    },
+    {
+      "start_time": 259,
+      "end_time": 259,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "This was the first time Sam Shalabi and friend ever played with Lee too, no rehearsal or anything"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Watch Party Commentators",
+          "tag": "Jade Palmer"
+        }
+      ],
+      "uuid": "a19ff130-51df-4dac-91a9-b3116b28426b"
+    },
+    {
+      "start_time": 263,
+      "end_time": 263,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "That's Sam Shalabi on guitar. Not sure about the drummer."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Watch Party Commentators",
+          "tag": "Jason Camlot"
+        }
+      ],
+      "uuid": "cb0cfbd1-744d-4979-8028-a81acb3520c7"
+    },
+    {
+      "start_time": 314,
+      "end_time": 314,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Hi, Joelle Ciona! Glad you could make it. You can use the chat function to comment on what you see, hear, and feel"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Watch Party Commentators",
+          "tag": "Jade Palmer"
+        }
+      ],
+      "uuid": "1f4f433e-aadb-447a-8ac9-e04c44153f41"
+    },
+    {
+      "start_time": 493,
+      "end_time": 493,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The shooting at the Polytechnique was December 6, 1989."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Watch Party Commentators",
+          "tag": "Jason Camlot"
+        }
+      ],
+      "uuid": "c3a3dfeb-98a2-48bd-bb86-fb4d1c34fad8"
+    },
+    {
+      "start_time": 532,
+      "end_time": 532,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The Rolling Stones Steel Wheels Concert in Montreal was December 14, 1989."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Watch Party Commentators",
+          "tag": "Jason Camlot"
+        }
+      ],
+      "uuid": "8cae017b-efab-4ba9-8208-64fe49c3e1a2"
+    },
+    {
+      "start_time": 546,
+      "end_time": 546,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Ann really captures the unpolished, inspired spirit of Enough Said!"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Watch Party Commentators",
+          "tag": "Justin McGrail"
+        }
+      ],
+      "uuid": "a0afea27-e141-4fbd-a7e3-979deacd3ae3"
+    },
+    {
+      "start_time": 610,
+      "end_time": 610,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "She really does. I think she had a few of her students there. So it was kind of a reading / class all at once..."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Watch Party Commentators",
+          "tag": "Jason Camlot"
+        }
+      ],
+      "uuid": "c99d443d-ba83-441e-9f32-85d896acd59f"
+    },
+    {
+      "start_time": 664,
+      "end_time": 664,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I think she improvised her whole set too, lots of audience participation that you can see in the full Lee Gotham/Ann Diamond feature video that will be up on the website"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Watch Party Commentators",
+          "tag": "Jade Palmer"
+        }
+      ],
+      "uuid": "14df8d9f-02c0-404c-84c5-7c4e48c22944"
+    },
+    {
+      "start_time": 710,
+      "end_time": 710,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Good line"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Watch Party Commentators",
+          "tag": "Justin McGrail"
+        }
+      ],
+      "uuid": "987acab4-f0b7-4455-9b4e-10557ba24666"
+    },
+    {
+      "start_time": 868,
+      "end_time": 868,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Fantastic performance!"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Watch Party Commentators",
+          "tag": "Jade Palmer"
+        }
+      ],
+      "uuid": "48bf1097-59c2-4eb5-b381-5850347768d0"
+    },
+    {
+      "start_time": 890,
+      "end_time": 890,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Did she just point to Karl's Shoes?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Watch Party Commentators",
+          "tag": "Justin McGrail"
+        }
+      ],
+      "uuid": "5eac6a4b-1014-4fce-b2eb-7d1d011a1d04"
+    },
+    {
+      "start_time": 932,
+      "end_time": 932,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Karl's Shoes: https://coolopolis.blogspot.com/2012/10/karls-longtime-shoe-store-eccentric.html#google_vignette"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Watch Party Commentators",
+          "tag": "Jason Camlot"
+        }
+      ],
+      "uuid": "11772ee2-919d-452c-b1ad-71e5c0940067"
+    },
+    {
+      "start_time": 947,
+      "end_time": 947,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Reacted to Jade Palmer: \"Fantastic performanc...\" with CLAPPING HANDS EMOJI"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Watch Party Commentators",
+          "tag": "Dee Smith"
+        }
+      ],
+      "uuid": "e7dd3444-8a2f-4030-a0bf-5ef8b35cdc04"
+    },
+    {
+      "start_time": 970,
+      "end_time": 970,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "No, Anne's last poem was about purchasing shoes from Karl's..."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Watch Party Commentators",
+          "tag": "Jason Camlot"
+        }
+      ],
+      "uuid": "c67f399e-39c8-4d64-95f2-92e5eb74f8ad"
+    },
+    {
+      "start_time": 978,
+      "end_time": 978,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "@Joelle Ciona this is you, correct?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Watch Party Commentators",
+          "tag": "Jade Palmer"
+        }
+      ],
+      "uuid": "d00bb669-70fb-4937-b7e6-17355f5daa62"
+    },
+    {
+      "start_time": 998,
+      "end_time": 998,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I remember meeting Karl's son Mitch, years later in Victoria"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Watch Party Commentators",
+          "tag": "Justin McGrail"
+        }
+      ],
+      "uuid": "7b2c982e-f347-4bfd-91c4-067a04190a57"
+    },
+    {
+      "start_time": 1014,
+      "end_time": 1014,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Wow."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Watch Party Commentators",
+          "tag": "Jason Camlot"
+        }
+      ],
+      "uuid": "bb02a4d5-0a90-47cc-84a4-32c82cfa38ab"
+    },
+    {
+      "start_time": 1018,
+      "end_time": 1018,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "There's Vince."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Watch Party Commentators",
+          "tag": "Jason Camlot"
+        }
+      ],
+      "uuid": "4b978f60-9190-4ad4-99ae-01f51f9f5421"
+    },
+    {
+      "start_time": 1019,
+      "end_time": 1019,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "This is me"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Watch Party Commentators",
+          "tag": "Joelle Ciona"
+        }
+      ],
+      "uuid": "016bc495-1e9d-4e7f-9149-49757f8fa7cd"
+    },
+    {
+      "start_time": 1026,
+      "end_time": 1026,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Vince's hair!"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Watch Party Commentators",
+          "tag": "Joelle Ciona"
+        }
+      ],
+      "uuid": "46a7252b-a07a-40bd-8870-12beeebcefa3"
+    },
+    {
+      "start_time": 1027,
+      "end_time": 1027,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Vince!!!"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Watch Party Commentators",
+          "tag": "Justin McGrail"
+        }
+      ],
+      "uuid": "f86cca38-1960-444f-a221-6ce93e5d5650"
+    },
+    {
+      "start_time": 1065,
+      "end_time": 1065,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "This is such a cool performance, Joelle Ciona."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Watch Party Commentators",
+          "tag": "Jason Camlot"
+        }
+      ],
+      "uuid": "ecd5650b-4acf-47e2-a146-4364646eed7b"
+    },
+    {
+      "start_time": 1100,
+      "end_time": 1100,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Thank you!"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Watch Party Commentators",
+          "tag": "Joelle Ciona"
+        }
+      ],
+      "uuid": "5e8bb001-5439-40d6-8440-4d66b3215a86"
+    },
+    {
+      "start_time": 1110,
+      "end_time": 1110,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Were you really biting off her nails?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Watch Party Commentators",
+          "tag": "Jason Camlot"
+        }
+      ],
+      "uuid": "aad751b8-7d21-4ce5-b827-060dbe889af0"
+    },
+    {
+      "start_time": 1187,
+      "end_time": 1187,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Love the use of the glass window backdrop"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Watch Party Commentators",
+          "tag": "Justin McGrail"
+        }
+      ],
+      "uuid": "89156d1b-82b8-44cd-b39f-ac4e8be07fc7"
+    },
+    {
+      "start_time": 1196,
+      "end_time": 1196,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The angels."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Watch Party Commentators",
+          "tag": "Jason Camlot"
+        }
+      ],
+      "uuid": "2d74120c-c5f4-4bb0-a864-61c4ff33d0e4"
+    },
+    {
+      "start_time": 1214,
+      "end_time": 1214,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "the steam on the window, the steam rising from the bowl..."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Watch Party Commentators",
+          "tag": "Jade Palmer"
+        }
+      ],
+      "uuid": "c1688602-e1a6-4b24-b0f4-113111b96de3"
+    },
+    {
+      "start_time": 1229,
+      "end_time": 1229,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Biting them but not off I don't think... Maybe I managed to tear off a few... my teeth aren't that sharp"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Watch Party Commentators",
+          "tag": "Joelle Ciona"
+        }
+      ],
+      "uuid": "73b4f327-73e9-4f5b-a05b-aa583410a05b"
+    },
+    {
+      "start_time": 1242,
+      "end_time": 1242,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The angels were wonderufl"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Watch Party Commentators",
+          "tag": "Joelle Ciona"
+        }
+      ],
+      "uuid": "6718eef1-220d-4f17-87f9-cce370938b1d"
+    },
+    {
+      "start_time": 1275,
+      "end_time": 1275,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Steam is so lovely for a simple effect"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Watch Party Commentators",
+          "tag": "Joelle Ciona"
+        }
+      ],
+      "uuid": "7110b9cd-89e8-4d88-92de-5dd295142729"
+    },
+    {
+      "start_time": 1281,
+      "end_time": 1281,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Great stuff!!"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Watch Party Commentators",
+          "tag": "Justin McGrail"
+        }
+      ],
+      "uuid": "d5c1de31-5351-4c61-adcf-81b58bd5c565"
+    },
+    {
+      "start_time": 1282,
+      "end_time": 1282,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "So cool Joelle!"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Watch Party Commentators",
+          "tag": "Jade Palmer"
+        }
+      ],
+      "uuid": "da58857a-7515-4a7e-9c56-be2e6e0d5ad7"
+    },
+    {
+      "start_time": 1290,
+      "end_time": 1290,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Thanks and thanks for these memories"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Watch Party Commentators",
+          "tag": "Joelle Ciona"
+        }
+      ],
+      "uuid": "11657533-c537-47a9-ab20-56dbd23a6617"
+    },
+    {
+      "start_time": 1343,
+      "end_time": 1343,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Revolutionary"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Watch Party Commentators",
+          "tag": "Justin McGrail"
+        }
+      ],
+      "uuid": "d94fe140-3c08-4738-8aad-d4a667fdacc9"
+    },
+    {
+      "start_time": 1356,
+      "end_time": 1356,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Love Neil so much"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Watch Party Commentators",
+          "tag": "Joelle Ciona"
+        }
+      ],
+      "uuid": "14dc27b4-60d0-4f6a-ab8f-266cef8f30a7"
+    },
+    {
+      "start_time": 1392,
+      "end_time": 1392,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Do you have any thoughts, @Dee Smith and @Raymond Filip?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Watch Party Commentators",
+          "tag": "Jade Palmer"
+        }
+      ],
+      "uuid": "ed284aeb-699b-4265-ac74-59081ccb0d29"
+    },
+    {
+      "start_time": 1411,
+      "end_time": 1411,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "We'd love to read them!"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Watch Party Commentators",
+          "tag": "Jade Palmer"
+        }
+      ],
+      "uuid": "23ad3bed-d67f-4df1-8cf2-73e9dadf871e"
+    },
+    {
+      "start_time": 1453,
+      "end_time": 1453,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The texture of the filming is so good with the sound of Niels piece"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Watch Party Commentators",
+          "tag": "Joelle Ciona"
+        }
+      ],
+      "uuid": "cbcb3ec6-34e9-4b37-8819-09e926366536"
+    },
+    {
+      "start_time": 1483,
+      "end_time": 1483,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And his shirt and the colour of the car and grainy beige city outside. Thank you for this."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Watch Party Commentators",
+          "tag": "Joelle Ciona"
+        }
+      ],
+      "uuid": "b5052033-bc80-4d48-8732-49aa1e2895f1"
+    },
+    {
+      "start_time": 1547,
+      "end_time": 1547,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "What was he doing, exactly? Was it mic feedback, mixed with taped radio? Not totally sure how he is generating these interesting effects."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Watch Party Commentators",
+          "tag": "Jason Camlot"
+        }
+      ],
+      "uuid": "856d0443-6e1e-4099-8356-47f1577d436f"
+    },
+    {
+      "start_time": 1598,
+      "end_time": 1598,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "My memory is that he was radio broadcasting/jamming a two sq km radius, and the feedback is live"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Watch Party Commentators",
+          "tag": "Justin McGrail"
+        }
+      ],
+      "uuid": "4cbc5208-797e-417e-b625-5c119c80998a"
+    },
+    {
+      "start_time": 1650,
+      "end_time": 1650,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The sounds he's generating are amazing."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Watch Party Commentators",
+          "tag": "Jason Camlot"
+        }
+      ],
+      "uuid": "22d0bacd-a076-49ad-8707-bd8ebec863a7"
+    },
+    {
+      "start_time": 1667,
+      "end_time": 1667,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Very intense performance"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Watch Party Commentators",
+          "tag": "Justin McGrail"
+        }
+      ],
+      "uuid": "b2b410f3-ed7a-4afa-ba70-4d3421b830e6"
+    },
+    {
+      "start_time": 1743,
+      "end_time": 1743,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "It was packed in Bistro 4!"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Watch Party Commentators",
+          "tag": "Jason Camlot"
+        }
+      ],
+      "uuid": "176848ea-f885-471f-9dde-a7e0ddf149dc"
+    },
+    {
+      "start_time": 1880,
+      "end_time": 1880,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I have to leave memory lane. Thanks."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Watch Party Commentators",
+          "tag": "Endre Farkas"
+        }
+      ],
+      "uuid": "5b80b2f4-8c44-4bd2-8e11-9e8ef8b4368b"
+    },
+    {
+      "start_time": 1890,
+      "end_time": 1890,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Thanks for coming, Endre!"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Watch Party Commentators",
+          "tag": "Jason Camlot"
+        }
+      ],
+      "uuid": "b928f9ed-62ff-40b9-b9f2-c779b210d570"
+    },
+    {
+      "start_time": 1898,
+      "end_time": 1898,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Hope to see you next time!"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Watch Party Commentators",
+          "tag": "Jade Palmer"
+        }
+      ],
+      "uuid": "ff6a3fc3-6a1b-478a-a5e7-fdfffa3b777e"
+    },
+    {
+      "start_time": 1918,
+      "end_time": 1918,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Is this Thoth Harris?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Watch Party Commentators",
+          "tag": "Jason Camlot"
+        }
+      ],
+      "uuid": "b6fb0476-068c-49e3-b7fd-f7adeb768a70"
+    },
+    {
+      "start_time": 1922,
+      "end_time": 1922,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yes!"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Watch Party Commentators",
+          "tag": "Jade Palmer"
+        }
+      ],
+      "uuid": "37647222-12ca-47f9-97e6-9171c9cccc03"
+    },
+    {
+      "start_time": 2038,
+      "end_time": 2038,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I believe Thoth later had his own reading series for a bit, but I can't remember the name of the series."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Watch Party Commentators",
+          "tag": "Jason Camlot"
+        }
+      ],
+      "uuid": "59e3152a-4d4a-4145-a8e4-281f8ba7be25"
+    },
+    {
+      "start_time": 2433,
+      "end_time": 2433,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "About the Hill of Crosses in Lithuania: https://kryziukalnas.lt/?id=44"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Watch Party Commentators",
+          "tag": "Jade Palmer"
+        }
+      ],
+      "uuid": "8259af8d-5c48-42c1-8315-fe8a8a4b9ee5"
+    },
+    {
+      "start_time": 2463,
+      "end_time": 2463,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"Crosses nailed to crosses...\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Watch Party Commentators",
+          "tag": "Jason Camlot"
+        }
+      ],
+      "uuid": "d089b9fd-fd4d-43db-af90-dffa1bd722c8"
+    },
+    {
+      "start_time": 2582,
+      "end_time": 2582,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The spirit never tires of peace"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Watch Party Commentators",
+          "tag": "Jade Palmer"
+        }
+      ],
+      "uuid": "1c1aeedb-7fe0-49f5-ba53-8f6d869128fe"
+    },
+    {
+      "start_time": 2606,
+      "end_time": 2606,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Dense and vivid imagery"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Watch Party Commentators",
+          "tag": "Justin McGrail"
+        }
+      ],
+      "uuid": "91ada5f2-09e6-4153-aed4-409eec135f05"
+    },
+    {
+      "start_time": 2625,
+      "end_time": 2625,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Reacted to Jason Camlot: \"Crosses nailed to c...\" with CLAPPING HANDS EMOJI"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Watch Party Commentators",
+          "tag": "Joelle Ciona"
+        }
+      ],
+      "uuid": "3fa354b2-303c-462b-a0ba-d512218c8481"
+    },
+    {
+      "start_time": 2631,
+      "end_time": 2631,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Incredible ending, Ray!"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Watch Party Commentators",
+          "tag": "Jade Palmer"
+        }
+      ],
+      "uuid": "f9a23823-6b62-48e2-b0fd-470058503f20"
+    },
+    {
+      "start_time": 2635,
+      "end_time": 2635,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Reacted to Jade Palmer: \"The spirit never ti...\" with HEART EMOJI"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Watch Party Commentators",
+          "tag": "Joelle Ciona"
+        }
+      ],
+      "uuid": "666f4c27-a3aa-4bba-999d-06f1e1f9e677"
+    },
+    {
+      "start_time": 2639,
+      "end_time": 2639,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "That was great Ray"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Watch Party Commentators",
+          "tag": "Justin McGrail"
+        }
+      ],
+      "uuid": "8ddcd507-2bb4-47ac-a96e-5cf5a2a65d77"
+    },
+    {
+      "start_time": 2641,
+      "end_time": 2641,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "That was a terrific reading, Ray."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Watch Party Commentators",
+          "tag": "Jason Camlot"
+        }
+      ],
+      "uuid": "292de68a-285d-489e-8463-af89b133e0a1"
+    },
+    {
+      "start_time": 2683,
+      "end_time": 2683,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Steve is attending a vernissage this evening so couldn't join us."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Watch Party Commentators",
+          "tag": "Jason Camlot"
+        }
+      ],
+      "uuid": "0eeaf7a1-f134-40ae-8607-f2026f587139"
+    },
+    {
+      "start_time": 2692,
+      "end_time": 2692,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Thanks Ray. The rhythm was percect"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Watch Party Commentators",
+          "tag": "Joelle Ciona"
+        }
+      ],
+      "uuid": "bbbb5045-a776-40e5-b0a7-955f3bc881a1"
+    },
+    {
+      "start_time": 2696,
+      "end_time": 2696,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "perfect"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Watch Party Commentators",
+          "tag": "Joelle Ciona"
+        }
+      ],
+      "uuid": "a7be5f77-4d57-421b-bc6a-5fc3ff820939"
+    },
+    {
+      "start_time": 2798,
+      "end_time": 2798,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Steve Luxton was also a member of the \"Montreal Storytellers,\" I believe."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Watch Party Commentators",
+          "tag": "Jason Camlot"
+        }
+      ],
+      "uuid": "a5f9afac-2da5-43a8-bb6d-b89ca19f1a2d"
+    },
+    {
+      "start_time": 2844,
+      "end_time": 2844,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Very fitting considering the jazz fest is coming up!"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Watch Party Commentators",
+          "tag": "Jade Palmer"
+        }
+      ],
+      "uuid": "61443398-926c-4245-888a-4d2e47d956df"
+    },
+    {
+      "start_time": 3119,
+      "end_time": 3119,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "A more biting side of Ian that one didn't hear as much in his later work."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Watch Party Commentators",
+          "tag": "Jason Camlot"
+        }
+      ],
+      "uuid": "0142a7f3-a3b5-46fb-bed0-497710c91ebe"
+    },
+    {
+      "start_time": 3228,
+      "end_time": 3228,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "This was a memorable, sarcastic piece from Ian who was usually quite serious in his spoken word"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Watch Party Commentators",
+          "tag": "Justin McGrail"
+        }
+      ],
+      "uuid": "33916f9b-9318-4147-9a78-c15cefa9119a"
+    },
+    {
+      "start_time": 3284,
+      "end_time": 3284,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "so vivid"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Watch Party Commentators",
+          "tag": "Jade Palmer"
+        }
+      ],
+      "uuid": "c4b6549e-e7de-4a13-af36-b2107d27bf7a"
+    },
+    {
+      "start_time": 3372,
+      "end_time": 3372,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "the little smile at the end shows his true character"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Watch Party Commentators",
+          "tag": "Watch Party Commentators"
+        }
+      ],
+      "uuid": "c6ec4d40-a5f7-48bc-b8fc-f084ead00334"
     }
   ],
   "event_id": "66e44855-46cd-4e99-9a18-a4dcc9571336",
